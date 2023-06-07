@@ -33,13 +33,63 @@ list.files(
   full.names = TRUE) |>
   map_dfr(open_and_lengthen) ->
 trust_wide
+```
 
+```{r}
+#| label: trust-vs-distrust
 trust_wide |>
   filter(country_code != "TOT") |>
   pivot_wider(
     id_cols = c("occupation", "year", "country_code"),
     names_from = "measure",
-    values_from = "pct") |>
-  write_csv(here("data", "ipsos-trust-professions-bycountry.csv")) ->
+    values_from = "pct") ->
 trust_distrust
+```
+
+```{r}
+#| label: add-country-names
+
+# map country codes to names (note some changes in coding year-to-year)
+countries <- tribble(
+  ~ country_code, ~ country_name,
+  "ARG",          "Argentina",
+  "AUS",          "Australia",
+  "BEL",          "Belgium",
+  "BRA",          "Brazil",
+  "CAN",          "Canada",
+  "CHL",          "Chile",
+  "CHN",          "China",
+  "COL",          "Colombia",
+  "GER",          "Germany",
+  "DEU",          "Germany",
+  "DNK",          "Denmark",
+  "SPA",          "Spain",
+  "ESP",          "Spain",
+  "FRA",          "France",
+  "GBR",          "United Kingdom",
+  "GB",           "United Kingdom",
+  "HUN",          "Hungary",
+  "IND",          "India",
+  "ITA",          "Italy",
+  "JAP",          "Japan",
+  "KOR",          "South Korea",
+  "MEX",          "Mexico",
+  "MYS",          "Malaysia",
+  "NDL",          "Netherlands",
+  "NLD",          "Netherlands",
+  "PER",          "Peru",
+  "POL",          "Poland",
+  "KSA",          "Saudi Arabia",
+  "SWE",          "Sweden",
+  "TUR",          "Turkey",
+  "USA",          "United States",
+  "RSA",          "Russia",
+  "RUS",          "Russia")
+
+# join country names and write out to disk
+trust_distrust |>
+  left_join(countries, by = "country_code") |>
+  select(starts_with("country"), year, occupation, trust, distrust) |>
+  write_csv(here("data", "ipsos-trust-professions-bycountry.csv")) ->
+trust_dsitrust_countrynames
 ```

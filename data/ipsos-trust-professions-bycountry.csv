@@ -1,1497 +1,1497 @@
-occupation,year,country_code,distrust,trust
-Politicians generally,2019,ARG,79,5
-Politicians generally,2019,AUS,64,10
-Politicians generally,2019,BEL,64,9
-Politicians generally,2019,BRA,74,8
-Politicians generally,2019,CAN,61,10
-Politicians generally,2019,CHN,38,22
-Politicians generally,2019,FRA,64,8
-Politicians generally,2019,GB,63,11
-Politicians generally,2019,GER,56,9
-Politicians generally,2019,HUN,77,5
-Politicians generally,2019,IND,59,17
-Politicians generally,2019,ITA,67,8
-Politicians generally,2019,JAP,54,7
-Politicians generally,2019,KOR,69,8
-Politicians generally,2019,KSA,NA,NA
-Politicians generally,2019,MEX,75,6
-Politicians generally,2019,POL,73,5
-Politicians generally,2019,RSA,79,6
-Politicians generally,2019,RUS,73,10
-Politicians generally,2019,SPA,76,7
-Politicians generally,2019,SWE,57,11
-Politicians generally,2019,TUR,65,11
-Politicians generally,2019,USA,69,9
-Government ministers,2019,ARG,71,8
-Government ministers,2019,AUS,55,12
-Government ministers,2019,BEL,62,9
-Government ministers,2019,BRA,67,10
-Government ministers,2019,CAN,46,13
-Government ministers,2019,CHN,15,50
-Government ministers,2019,FRA,58,10
-Government ministers,2019,GB,57,11
-Government ministers,2019,GER,50,11
-Government ministers,2019,HUN,70,8
-Government ministers,2019,IND,52,21
-Government ministers,2019,ITA,53,15
-Government ministers,2019,JAP,48,10
-Government ministers,2019,KOR,45,12
-Government ministers,2019,KSA,NA,NA
-Government ministers,2019,MEX,65,9
-Government ministers,2019,POL,65,13
-Government ministers,2019,RSA,77,5
-Government ministers,2019,RUS,67,10
-Government ministers,2019,SPA,71,8
-Government ministers,2019,SWE,34,22
-Government ministers,2019,TUR,52,23
-Government ministers,2019,USA,41,11
-Advertising executives,2019,ARG,40,16
-Advertising executives,2019,AUS,55,8
-Advertising executives,2019,BEL,59,7
-Advertising executives,2019,BRA,37,17
-Advertising executives,2019,CAN,48,10
-Advertising executives,2019,CHN,32,30
-Advertising executives,2019,FRA,55,10
-Advertising executives,2019,GB,55,9
-Advertising executives,2019,GER,50,9
-Advertising executives,2019,HUN,53,4
-Advertising executives,2019,IND,41,22
-Advertising executives,2019,ITA,42,12
-Advertising executives,2019,JAP,35,8
-Advertising executives,2019,KOR,53,10
-Advertising executives,2019,KSA,30,31
-Advertising executives,2019,MEX,33,22
-Advertising executives,2019,POL,46,10
-Advertising executives,2019,RSA,39,14
-Advertising executives,2019,RUS,64,9
-Advertising executives,2019,SPA,44,11
-Advertising executives,2019,SWE,52,6
-Advertising executives,2019,TUR,42,17
-Advertising executives,2019,USA,49,12
-Clergy/Priests,2019,ARG,60,NA
-Clergy/Priests,2019,AUS,42,NA
-Clergy/Priests,2019,BEL,47,NA
-Clergy/Priests,2019,BRA,34,NA
-Clergy/Priests,2019,CAN,42,NA
-Clergy/Priests,2019,CHN,29,NA
-Clergy/Priests,2019,FRA,44,NA
-Clergy/Priests,2019,GB,37,NA
-Clergy/Priests,2019,GER,38,NA
-Clergy/Priests,2019,HUN,45,NA
-Clergy/Priests,2019,IND,32,NA
-Clergy/Priests,2019,ITA,55,NA
-Clergy/Priests,2019,JAP,31,NA
-Clergy/Priests,2019,KOR,37,NA
-Clergy/Priests,2019,KSA,NA,NA
-Clergy/Priests,2019,MEX,50,NA
-Clergy/Priests,2019,POL,60,NA
-Clergy/Priests,2019,RSA,27,NA
-Clergy/Priests,2019,RUS,44,NA
-Clergy/Priests,2019,SPA,68,NA
-Clergy/Priests,2019,SWE,27,NA
-Clergy/Priests,2019,TUR,44,NA
-Clergy/Priests,2019,USA,27,NA
-Bankers,2019,ARG,50,14
-Bankers,2019,AUS,52,13
-Bankers,2019,BEL,49,13
-Bankers,2019,BRA,52,13
-Bankers,2019,CAN,27,22
-Bankers,2019,CHN,24,43
-Bankers,2019,FRA,50,13
-Bankers,2019,GB,53,13
-Bankers,2019,GER,43,12
-Bankers,2019,HUN,64,8
-Bankers,2019,IND,24,38
-Bankers,2019,ITA,45,13
-Bankers,2019,JAP,30,16
-Bankers,2019,KOR,20,23
-Bankers,2019,KSA,20,45
-Bankers,2019,MEX,37,23
-Bankers,2019,POL,45,18
-Bankers,2019,RSA,27,28
-Bankers,2019,RUS,58,20
-Bankers,2019,SPA,70,7
-Bankers,2019,SWE,29,23
-Bankers,2019,TUR,43,23
-Bankers,2019,USA,34,20
-Journalists,2019,ARG,46,17
-Journalists,2019,AUS,41,23
-Journalists,2019,BEL,36,16
-Journalists,2019,BRA,38,25
-Journalists,2019,CAN,27,23
-Journalists,2019,CHN,19,33
-Journalists,2019,FRA,40,14
-Journalists,2019,GB,46,24
-Journalists,2019,GER,31,17
-Journalists,2019,HUN,52,18
-Journalists,2019,IND,38,27
-Journalists,2019,ITA,42,16
-Journalists,2019,JAP,38,18
-Journalists,2019,KOR,40,24
-Journalists,2019,KSA,31,NA
-Journalists,2019,MEX,30,19
-Journalists,2019,POL,35,17
-Journalists,2019,RSA,35,31
-Journalists,2019,RUS,39,37
-Journalists,2019,SPA,39,7
-Journalists,2019,SWE,49,28
-Journalists,2019,TUR,51,15
-Journalists,2019,USA,39,32
-Civil servants,2019,ARG,71,25
-Civil servants,2019,AUS,19,9
-Civil servants,2019,BEL,23,21
-Civil servants,2019,BRA,33,24
-Civil servants,2019,CAN,23,16
-Civil servants,2019,CHN,22,45
-Civil servants,2019,FRA,17,35
-Civil servants,2019,GB,24,11
-Civil servants,2019,GER,25,26
-Civil servants,2019,HUN,40,20
-Civil servants,2019,IND,26,23
-Civil servants,2019,ITA,42,29
-Civil servants,2019,JAP,24,10
-Civil servants,2019,KOR,40,14
-Civil servants,2019,KSA,20,39
-Civil servants,2019,MEX,68,36
-Civil servants,2019,POL,54,23
-Civil servants,2019,RSA,37,13
-Civil servants,2019,RUS,51,39
-Civil servants,2019,SPA,26,22
-Civil servants,2019,SWE,19,19
-Civil servants,2019,TUR,25,23
-Civil servants,2019,USA,13,14
-Television news readers,2019,ARG,45,NA
-Television news readers,2019,AUS,27,NA
-Television news readers,2019,BEL,22,NA
-Television news readers,2019,BRA,42,NA
-Television news readers,2019,CAN,26,NA
-Television news readers,2019,CHN,18,NA
-Television news readers,2019,FRA,37,NA
-Television news readers,2019,GB,19,NA
-Television news readers,2019,GER,19,NA
-Television news readers,2019,HUN,45,NA
-Television news readers,2019,IND,38,NA
-Television news readers,2019,ITA,43,NA
-Television news readers,2019,JAP,26,NA
-Television news readers,2019,KOR,27,NA
-Television news readers,2019,KSA,26,NA
-Television news readers,2019,MEX,43,NA
-Television news readers,2019,POL,39,NA
-Television news readers,2019,RSA,22,NA
-Television news readers,2019,RUS,58,NA
-Television news readers,2019,SPA,31,NA
-Television news readers,2019,SWE,26,NA
-Television news readers,2019,TUR,46,NA
-Television news readers,2019,USA,35,NA
-Business leaders,2019,ARG,45,18
-Business leaders,2019,AUS,34,17
-Business leaders,2019,BEL,26,23
-Business leaders,2019,BRA,31,20
-Business leaders,2019,CAN,30,19
-Business leaders,2019,CHN,18,46
-Business leaders,2019,FRA,23,26
-Business leaders,2019,GB,34,16
-Business leaders,2019,GER,26,13
-Business leaders,2019,HUN,38,12
-Business leaders,2019,IND,30,34
-Business leaders,2019,ITA,26,21
-Business leaders,2019,JAP,23,15
-Business leaders,2019,KOR,42,12
-Business leaders,2019,KSA,22,40
-Business leaders,2019,MEX,23,35
-Business leaders,2019,POL,39,21
-Business leaders,2019,RSA,29,30
-Business leaders,2019,RUS,48,21
-Business leaders,2019,SPA,50,12
-Business leaders,2019,SWE,28,19
-Business leaders,2019,TUR,41,19
-Business leaders,2019,USA,32,19
-Lawyers,2019,ARG,45,18
-Lawyers,2019,AUS,38,22
-Lawyers,2019,BEL,34,21
-Lawyers,2019,BRA,40,20
-Lawyers,2019,CAN,36,20
-Lawyers,2019,CHN,19,53
-Lawyers,2019,FRA,25,28
-Lawyers,2019,GB,29,26
-Lawyers,2019,GER,24,25
-Lawyers,2019,HUN,44,16
-Lawyers,2019,IND,39,25
-Lawyers,2019,ITA,34,20
-Lawyers,2019,JAP,18,28
-Lawyers,2019,KOR,33,14
-Lawyers,2019,KSA,23,34
-Lawyers,2019,MEX,38,17
-Lawyers,2019,POL,33,31
-Lawyers,2019,RSA,37,21
-Lawyers,2019,RUS,26,36
-Lawyers,2019,SPA,30,23
-Lawyers,2019,SWE,21,33
-Lawyers,2019,TUR,35,23
-Lawyers,2019,USA,42,15
-Judges,2019,ARG,61,12
-Judges,2019,AUS,17,44
-Judges,2019,BEL,23,38
-Judges,2019,BRA,36,26
-Judges,2019,CAN,18,40
-Judges,2019,CHN,15,65
-Judges,2019,FRA,21,36
-Judges,2019,GB,16,43
-Judges,2019,GER,14,41
-Judges,2019,HUN,38,24
-Judges,2019,IND,21,42
-Judges,2019,ITA,29,29
-Judges,2019,JAP,17,31
-Judges,2019,KOR,42,15
-Judges,2019,KSA,NA,NA
-Judges,2019,MEX,47,18
-Judges,2019,POL,36,28
-Judges,2019,RSA,25,33
-Judges,2019,RUS,47,24
-Judges,2019,SPA,36,23
-Judges,2019,SWE,17,43
-Judges,2019,TUR,31,32
-Judges,2019,USA,15,39
-The police,2019,ARG,41,26
-The police,2019,AUS,15,56
-The police,2019,BEL,17,44
-The police,2019,BRA,32,31
-The police,2019,CAN,20,52
-The police,2019,CHN,9,80
-The police,2019,FRA,12,53
-The police,2019,GB,18,47
-The police,2019,GER,14,49
-The police,2019,HUN,34,31
-The police,2019,IND,35,33
-The police,2019,ITA,15,50
-The police,2019,JAP,21,33
-The police,2019,KOR,28,21
-The police,2019,KSA,NA,NA
-The police,2019,MEX,63,11
-The police,2019,POL,30,36
-The police,2019,RSA,60,12
-The police,2019,RUS,41,20
-The police,2019,SPA,20,45
-The police,2019,SWE,16,49
-The police,2019,TUR,30,39
-The police,2019,USA,21,48
-Pollsters,2019,ARG,24,8
-Pollsters,2019,AUS,35,24
-Pollsters,2019,BEL,26,24
-Pollsters,2019,BRA,33,23
-Pollsters,2019,CAN,25,24
-Pollsters,2019,CHN,20,28
-Pollsters,2019,FRA,17,35
-Pollsters,2019,GB,34,26
-Pollsters,2019,GER,18,20
-Pollsters,2019,HUN,31,15
-Pollsters,2019,IND,31,38
-Pollsters,2019,ITA,23,15
-Pollsters,2019,JAP,29,18
-Pollsters,2019,KOR,32,13
-Pollsters,2019,KSA,19,40
-Pollsters,2019,MEX,19,9
-Pollsters,2019,POL,31,13
-Pollsters,2019,RSA,31,21
-Pollsters,2019,RUS,19,27
-Pollsters,2019,SPA,25,22
-Pollsters,2019,SWE,25,27
-Pollsters,2019,TUR,33,31
-Pollsters,2019,USA,35,34
-Armed forces members,2019,ARG,35,32
-Armed forces members,2019,AUS,10,58
-Armed forces members,2019,BEL,15,36
-Armed forces members,2019,BRA,23,39
-Armed forces members,2019,CAN,13,56
-Armed forces members,2019,CHN,11,72
-Armed forces members,2019,FRA,10,55
-Armed forces members,2019,GB,12,52
-Armed forces members,2019,GER,27,24
-Armed forces members,2019,HUN,16,39
-Armed forces members,2019,IND,11,70
-Armed forces members,2019,ITA,16,47
-Armed forces members,2019,JAP,14,35
-Armed forces members,2019,KOR,31,18
-Armed forces members,2019,KSA,NA,NA
-Armed forces members,2019,MEX,30,40
-Armed forces members,2019,POL,27,35
-Armed forces members,2019,RSA,33,29
-Armed forces members,2019,RUS,9,55
-Armed forces members,2019,SPA,26,39
-Armed forces members,2019,SWE,15,39
-Armed forces members,2019,TUR,24,35
-Armed forces members,2019,USA,11,60
-Doctors,2019,ARG,9,68
-Doctors,2019,AUS,8,69
-Doctors,2019,BEL,8,64
-Doctors,2019,BRA,16,48
-Doctors,2019,CAN,12,63
-Doctors,2019,CHN,15,56
-Doctors,2019,FRA,10,62
-Doctors,2019,GB,8,67
-Doctors,2019,GER,10,51
-Doctors,2019,HUN,22,38
-Doctors,2019,IND,18,49
-Doctors,2019,ITA,10,60
-Doctors,2019,JAP,13,39
-Doctors,2019,KOR,23,28
-Doctors,2019,KSA,19,52
-Doctors,2019,MEX,7,68
-Doctors,2019,POL,24,45
-Doctors,2019,RSA,10,64
-Doctors,2019,RUS,19,49
-Doctors,2019,SPA,10,69
-Doctors,2019,SWE,12,56
-Doctors,2019,TUR,17,61
-Doctors,2019,USA,11,60
-Teachers,2019,ARG,11,61
-Teachers,2019,AUS,9,60
-Teachers,2019,BEL,11,51
-Teachers,2019,BRA,14,57
-Teachers,2019,CAN,12,57
-Teachers,2019,CHN,14,62
-Teachers,2019,FRA,11,48
-Teachers,2019,GB,10,58
-Teachers,2019,GER,11,39
-Teachers,2019,HUN,12,48
-Teachers,2019,IND,12,63
-Teachers,2019,ITA,14,47
-Teachers,2019,JAP,26,18
-Teachers,2019,KOR,20,27
-Teachers,2019,KSA,17,48
-Teachers,2019,MEX,12,58
-Teachers,2019,POL,17,44
-Teachers,2019,RSA,13,54
-Teachers,2019,RUS,7,72
-Teachers,2019,SPA,11,56
-Teachers,2019,SWE,13,44
-Teachers,2019,TUR,13,59
-Teachers,2019,USA,9,61
-Ordinary men/women,2019,ARG,9,47
-Ordinary men/women,2019,AUS,10,42
-Ordinary men/women,2019,BEL,9,37
-Ordinary men/women,2019,BRA,18,32
-Ordinary men/women,2019,CAN,13,37
-Ordinary men/women,2019,CHN,16,45
-Ordinary men/women,2019,FRA,10,35
-Ordinary men/women,2019,GB,11,37
-Ordinary men/women,2019,GER,8,32
-Ordinary men/women,2019,HUN,19,23
-Ordinary men/women,2019,IND,12,49
-Ordinary men/women,2019,ITA,15,35
-Ordinary men/women,2019,JAP,15,18
-Ordinary men/women,2019,KOR,16,22
-Ordinary men/women,2019,KSA,15,45
-Ordinary men/women,2019,MEX,8,45
-Ordinary men/women,2019,POL,11,44
-Ordinary men/women,2019,RSA,16,33
-Ordinary men/women,2019,RUS,4,64
-Ordinary men/women,2019,SPA,10,43
-Ordinary men/women,2019,SWE,21,26
-Ordinary men/women,2019,TUR,23,26
-Ordinary men/women,2019,USA,12,42
-Scientists,2019,ARG,6,74
-Scientists,2019,AUS,8,62
-Scientists,2019,BEL,11,56
-Scientists,2019,BRA,15,53
-Scientists,2019,CAN,12,58
-Scientists,2019,CHN,14,63
-Scientists,2019,FRA,9,59
-Scientists,2019,GB,7,62
-Scientists,2019,GER,8,52
-Scientists,2019,HUN,11,58
-Scientists,2019,IND,12,67
-Scientists,2019,ITA,9,67
-Scientists,2019,JAP,11,40
-Scientists,2019,KOR,17,42
-Scientists,2019,KSA,15,53
-Scientists,2019,MEX,8,72
-Scientists,2019,POL,10,59
-Scientists,2019,RSA,13,50
-Scientists,2019,RUS,12,76
-Scientists,2019,SPA,8,67
-Scientists,2019,SWE,11,56
-Scientists,2019,TUR,10,70
-Scientists,2019,USA,9,55
-Television new readers,2019,ARG,NA,18
-Television new readers,2019,AUS,NA,22
-Television new readers,2019,BEL,NA,30
-Television new readers,2019,BRA,NA,18
-Television new readers,2019,CAN,NA,26
-Television new readers,2019,CHN,NA,50
-Television new readers,2019,FRA,NA,20
-Television new readers,2019,GB,NA,30
-Television new readers,2019,GER,NA,35
-Television new readers,2019,HUN,NA,14
-Television new readers,2019,IND,NA,29
-Television new readers,2019,ITA,NA,17
-Television new readers,2019,JAP,NA,17
-Television new readers,2019,KOR,NA,17
-Television new readers,2019,KSA,NA,35
-Television new readers,2019,MEX,NA,17
-Television new readers,2019,POL,NA,22
-Television new readers,2019,RSA,NA,31
-Television new readers,2019,RUS,NA,15
-Television new readers,2019,SPA,NA,19
-Television new readers,2019,SWE,NA,31
-Television new readers,2019,TUR,NA,13
-Television new readers,2019,USA,NA,18
-Clergy/priests,2019,ARG,NA,17
-Clergy/priests,2019,AUS,NA,17
-Clergy/priests,2019,BEL,NA,22
-Clergy/priests,2019,BRA,NA,21
-Clergy/priests,2019,CAN,NA,29
-Clergy/priests,2019,CHN,NA,48
-Clergy/priests,2019,FRA,NA,19
-Clergy/priests,2019,GB,NA,15
-Clergy/priests,2019,GER,NA,23
-Clergy/priests,2019,HUN,NA,13
-Clergy/priests,2019,IND,NA,28
-Clergy/priests,2019,ITA,NA,19
-Clergy/priests,2019,JAP,NA,11
-Clergy/priests,2019,KOR,NA,13
-Clergy/priests,2019,KSA,NA,31
-Clergy/priests,2019,MEX,NA,27
-Clergy/priests,2019,POL,NA,22
-Clergy/priests,2019,RSA,NA,23
-Clergy/priests,2019,RUS,NA,27
-Clergy/priests,2019,SPA,NA,15
-Clergy/priests,2019,SWE,NA,16
-Clergy/priests,2019,TUR,NA,12
-Clergy/priests,2019,USA,NA,23
-Politicians generally,2021,ARG,76,3
-Politicians generally,2021,AUS,53,14
-Politicians generally,2021,BEL,59,10
-Politicians generally,2021,BRA,77,6
-Politicians generally,2021,CAN,54,13
-Politicians generally,2021,CHL,78,6
-Politicians generally,2021,CHN,NA,NA
-Politicians generally,2021,COL,77,4
-Politicians generally,2021,FRA,54,11
-Politicians generally,2021,GB,57,12
-Politicians generally,2021,GER,50,12
-Politicians generally,2021,HUN,79,4
-Politicians generally,2021,IND,51,18
-Politicians generally,2021,ITA,67,9
-Politicians generally,2021,JAP,56,7
-Politicians generally,2021,KOR,66,9
-Politicians generally,2021,KSA,NA,NA
-Politicians generally,2021,MYS,53,19
-Politicians generally,2021,MEX,66,9
-Politicians generally,2021,NLD,45,19
-Politicians generally,2021,PER,73,6
-Politicians generally,2021,POL,70,9
-Politicians generally,2021,RSA,75,10
-Politicians generally,2021,RUS,56,16
-Politicians generally,2021,SPA,68,8
-Politicians generally,2021,SWE,49,17
-Politicians generally,2021,TUR,61,11
-Politicians generally,2021,USA,66,9
-Government ministers,2021,ARG,69,6
-Government ministers,2021,AUS,48,18
-Government ministers,2021,BEL,58,11
-Government ministers,2021,BRA,65,11
-Government ministers,2021,CAN,43,17
-Government ministers,2021,CHL,67,9
-Government ministers,2021,CHN,NA,NA
-Government ministers,2021,COL,73,5
-Government ministers,2021,FRA,54,10
-Government ministers,2021,GB,49,15
-Government ministers,2021,GER,42,15
-Government ministers,2021,HUN,72,11
-Government ministers,2021,IND,45,25
-Government ministers,2021,ITA,51,15
-Government ministers,2021,JAP,49,12
-Government ministers,2021,KOR,51,9
-Government ministers,2021,KSA,NA,NA
-Government ministers,2021,MYS,49,24
-Government ministers,2021,MEX,52,13
-Government ministers,2021,NLD,40,20
-Government ministers,2021,PER,62,8
-Government ministers,2021,POL,61,14
-Government ministers,2021,RSA,71,11
-Government ministers,2021,RUS,54,18
-Government ministers,2021,SPA,58,9
-Government ministers,2021,SWE,28,26
-Government ministers,2021,TUR,46,25
-Government ministers,2021,USA,41,18
-Advertising executives,2021,ARG,32,13
-Advertising executives,2021,AUS,50,11
-Advertising executives,2021,BEL,54,10
-Advertising executives,2021,BRA,28,19
-Advertising executives,2021,CAN,45,9
-Advertising executives,2021,CHL,36,12
-Advertising executives,2021,CHN,33,24
-Advertising executives,2021,COL,28,17
-Advertising executives,2021,FRA,48,10
-Advertising executives,2021,GB,51,9
-Advertising executives,2021,GER,44,9
-Advertising executives,2021,HUN,44,8
-Advertising executives,2021,IND,29,28
-Advertising executives,2021,ITA,37,15
-Advertising executives,2021,JAP,28,9
-Advertising executives,2021,KOR,43,7
-Advertising executives,2021,KSA,23,34
-Advertising executives,2021,MYS,27,26
-Advertising executives,2021,MEX,24,19
-Advertising executives,2021,NLD,36,11
-Advertising executives,2021,PER,32,15
-Advertising executives,2021,POL,35,13
-Advertising executives,2021,RSA,32,22
-Advertising executives,2021,RUS,36,20
-Advertising executives,2021,SPA,41,10
-Advertising executives,2021,SWE,42,12
-Advertising executives,2021,TUR,34,16
-Advertising executives,2021,USA,42,13
-Clergy/Priests,2021,ARG,54,NA
-Clergy/Priests,2021,AUS,39,NA
-Clergy/Priests,2021,BEL,39,NA
-Clergy/Priests,2021,BRA,31,NA
-Clergy/Priests,2021,CAN,29,NA
-Clergy/Priests,2021,CHL,67,NA
-Clergy/Priests,2021,CHN,NA,NA
-Clergy/Priests,2021,COL,43,NA
-Clergy/Priests,2021,FRA,31,NA
-Clergy/Priests,2021,GB,22,NA
-Clergy/Priests,2021,GER,35,NA
-Clergy/Priests,2021,HUN,36,NA
-Clergy/Priests,2021,IND,26,NA
-Clergy/Priests,2021,ITA,46,NA
-Clergy/Priests,2021,JAP,21,NA
-Clergy/Priests,2021,KOR,27,NA
-Clergy/Priests,2021,KSA,NA,NA
-Clergy/Priests,2021,MYS,29,NA
-Clergy/Priests,2021,MEX,44,NA
-Clergy/Priests,2021,NLD,34,NA
-Clergy/Priests,2021,PER,34,NA
-Clergy/Priests,2021,POL,54,NA
-Clergy/Priests,2021,RSA,28,NA
-Clergy/Priests,2021,RUS,38,NA
-Clergy/Priests,2021,SPA,57,NA
-Clergy/Priests,2021,SWE,18,NA
-Clergy/Priests,2021,TUR,37,NA
-Clergy/Priests,2021,USA,19,NA
-Journalists,2021,ARG,39,19
-Journalists,2021,AUS,40,21
-Journalists,2021,BEL,36,21
-Journalists,2021,BRA,30,34
-Journalists,2021,CAN,30,26
-Journalists,2021,CHL,36,18
-Journalists,2021,CHN,19,45
-Journalists,2021,COL,42,17
-Journalists,2021,FRA,39,16
-Journalists,2021,GB,48,13
-Journalists,2021,GER,30,21
-Journalists,2021,HUN,46,11
-Journalists,2021,IND,32,31
-Journalists,2021,ITA,42,18
-Journalists,2021,JAP,32,17
-Journalists,2021,KOR,34,15
-Journalists,2021,KSA,18,36
-Journalists,2021,MYS,29,32
-Journalists,2021,MEX,29,27
-Journalists,2021,NLD,25,30
-Journalists,2021,PER,41,17
-Journalists,2021,POL,28,25
-Journalists,2021,RSA,32,28
-Journalists,2021,RUS,36,27
-Journalists,2021,SPA,41,16
-Journalists,2021,SWE,37,24
-Journalists,2021,TUR,31,21
-Journalists,2021,USA,41,26
-Bankers,2021,ARG,40,15
-Bankers,2021,AUS,35,20
-Bankers,2021,BEL,40,14
-Bankers,2021,BRA,47,14
-Bankers,2021,CAN,25,29
-Bankers,2021,CHL,42,15
-Bankers,2021,CHN,22,36
-Bankers,2021,COL,48,11
-Bankers,2021,FRA,41,16
-Bankers,2021,GB,41,18
-Bankers,2021,GER,37,14
-Bankers,2021,HUN,48,14
-Bankers,2021,IND,16,44
-Bankers,2021,ITA,33,18
-Bankers,2021,JAP,23,19
-Bankers,2021,KOR,19,28
-Bankers,2021,KSA,11,46
-Bankers,2021,MYS,14,47
-Bankers,2021,MEX,32,16
-Bankers,2021,NLD,43,13
-Bankers,2021,PER,39,16
-Bankers,2021,POL,42,20
-Bankers,2021,RSA,22,35
-Bankers,2021,RUS,45,20
-Bankers,2021,SPA,60,7
-Bankers,2021,SWE,24,27
-Bankers,2021,TUR,32,25
-Bankers,2021,USA,21,38
-Civil servants,2021,ARG,66,7
-Civil servants,2021,AUS,17,31
-Civil servants,2021,BEL,24,28
-Civil servants,2021,BRA,26,27
-Civil servants,2021,CAN,18,26
-Civil servants,2021,CHL,45,15
-Civil servants,2021,CHN,NA,NA
-Civil servants,2021,COL,59,7
-Civil servants,2021,FRA,15,32
-Civil servants,2021,GB,19,27
-Civil servants,2021,GER,23,22
-Civil servants,2021,HUN,28,24
-Civil servants,2021,IND,22,41
-Civil servants,2021,ITA,30,22
-Civil servants,2021,JAP,21,21
-Civil servants,2021,KOR,35,15
-Civil servants,2021,KSA,13,46
-Civil servants,2021,MYS,19,36
-Civil servants,2021,MEX,56,10
-Civil servants,2021,NLD,25,24
-Civil servants,2021,PER,58,10
-Civil servants,2021,POL,48,16
-Civil servants,2021,RSA,30,23
-Civil servants,2021,RUS,39,22
-Civil servants,2021,SPA,24,19
-Civil servants,2021,SWE,15,28
-Civil servants,2021,TUR,15,32
-Civil servants,2021,USA,26,27
-The police,2021,ARG,35,24
-The police,2021,AUS,18,52
-The police,2021,BEL,21,37
-The police,2021,BRA,31,30
-The police,2021,CAN,23,44
-The police,2021,CHL,48,24
-The police,2021,CHN,NA,NA
-The police,2021,COL,52,16
-The police,2021,FRA,16,48
-The police,2021,GB,20,48
-The police,2021,GER,14,47
-The police,2021,HUN,24,35
-The police,2021,IND,27,37
-The police,2021,ITA,17,47
-The police,2021,JAP,14,38
-The police,2021,KOR,35,22
-The police,2021,KSA,NA,NA
-The police,2021,MYS,27,40
-The police,2021,MEX,48,15
-The police,2021,NLD,14,53
-The police,2021,PER,37,22
-The police,2021,POL,43,29
-The police,2021,RSA,55,13
-The police,2021,RUS,38,29
-The police,2021,SPA,18,47
-The police,2021,SWE,16,60
-The police,2021,TUR,17,52
-The police,2021,USA,20,53
-Television news readers,2021,ARG,39,17
-Television news readers,2021,AUS,25,28
-Television news readers,2021,BEL,26,31
-Television news readers,2021,BRA,33,26
-Television news readers,2021,CAN,24,26
-Television news readers,2021,CHL,37,20
-Television news readers,2021,CHN,17,39
-Television news readers,2021,COL,49,14
-Television news readers,2021,FRA,31,18
-Television news readers,2021,GB,18,31
-Television news readers,2021,GER,20,35
-Television news readers,2021,HUN,40,13
-Television news readers,2021,IND,32,31
-Television news readers,2021,ITA,43,18
-Television news readers,2021,JAP,16,23
-Television news readers,2021,KOR,27,21
-Television news readers,2021,KSA,17,43
-Television news readers,2021,MYS,17,42
-Television news readers,2021,MEX,38,20
-Television news readers,2021,NLD,19,35
-Television news readers,2021,PER,44,15
-Television news readers,2021,POL,38,21
-Television news readers,2021,RSA,19,38
-Television news readers,2021,RUS,43,25
-Television news readers,2021,SPA,30,22
-Television news readers,2021,SWE,19,41
-Television news readers,2021,TUR,26,27
-Television news readers,2021,USA,39,24
-Judges,2021,ARG,61,10
-Judges,2021,AUS,19,45
-Judges,2021,BEL,22,38
-Judges,2021,BRA,32,26
-Judges,2021,CAN,13,49
-Judges,2021,CHL,52,15
-Judges,2021,CHN,NA,NA
-Judges,2021,COL,52,11
-Judges,2021,FRA,23,38
-Judges,2021,GB,13,48
-Judges,2021,GER,14,45
-Judges,2021,HUN,31,29
-Judges,2021,IND,20,47
-Judges,2021,ITA,29,33
-Judges,2021,JAP,12,41
-Judges,2021,KOR,36,23
-Judges,2021,KSA,NA,NA
-Judges,2021,MYS,18,49
-Judges,2021,MEX,32,19
-Judges,2021,NLD,13,56
-Judges,2021,PER,58,11
-Judges,2021,POL,32,33
-Judges,2021,RSA,25,36
-Judges,2021,RUS,40,28
-Judges,2021,SPA,24,32
-Judges,2021,SWE,16,51
-Judges,2021,TUR,29,33
-Judges,2021,USA,16,45
-Business leaders,2021,ARG,34,18
-Business leaders,2021,AUS,30,21
-Business leaders,2021,BEL,26,20
-Business leaders,2021,BRA,24,23
-Business leaders,2021,CAN,28,17
-Business leaders,2021,CHL,50,15
-Business leaders,2021,CHN,23,44
-Business leaders,2021,COL,27,22
-Business leaders,2021,FRA,19,26
-Business leaders,2021,GB,33,16
-Business leaders,2021,GER,24,15
-Business leaders,2021,HUN,30,16
-Business leaders,2021,IND,22,34
-Business leaders,2021,ITA,25,24
-Business leaders,2021,JAP,19,16
-Business leaders,2021,KOR,34,14
-Business leaders,2021,KSA,11,49
-Business leaders,2021,MYS,23,32
-Business leaders,2021,MEX,24,26
-Business leaders,2021,NLD,18,22
-Business leaders,2021,PER,25,24
-Business leaders,2021,POL,29,20
-Business leaders,2021,RSA,24,28
-Business leaders,2021,RUS,39,24
-Business leaders,2021,SPA,40,14
-Business leaders,2021,SWE,29,19
-Business leaders,2021,TUR,37,18
-Business leaders,2021,USA,27,25
-Lawyers,2021,ARG,37,17
-Lawyers,2021,AUS,32,28
-Lawyers,2021,BEL,33,27
-Lawyers,2021,BRA,33,22
-Lawyers,2021,CAN,30,23
-Lawyers,2021,CHL,37,22
-Lawyers,2021,CHN,18,53
-Lawyers,2021,COL,39,14
-Lawyers,2021,FRA,22,33
-Lawyers,2021,GB,26,32
-Lawyers,2021,GER,19,31
-Lawyers,2021,HUN,36,22
-Lawyers,2021,IND,27,33
-Lawyers,2021,ITA,32,25
-Lawyers,2021,JAP,14,35
-Lawyers,2021,KOR,27,22
-Lawyers,2021,KSA,11,42
-Lawyers,2021,MYS,24,40
-Lawyers,2021,MEX,32,17
-Lawyers,2021,NLD,20,35
-Lawyers,2021,PER,43,16
-Lawyers,2021,POL,24,38
-Lawyers,2021,RSA,33,27
-Lawyers,2021,RUS,22,35
-Lawyers,2021,SPA,24,27
-Lawyers,2021,SWE,19,41
-Lawyers,2021,TUR,25,26
-Lawyers,2021,USA,34,22
-Pollsters,2021,ARG,21,26
-Pollsters,2021,AUS,31,11
-Pollsters,2021,BEL,22,25
-Pollsters,2021,BRA,22,33
-Pollsters,2021,CAN,20,17
-Pollsters,2021,CHL,20,24
-Pollsters,2021,CHN,NA,NA
-Pollsters,2021,COL,22,28
-Pollsters,2021,FRA,15,36
-Pollsters,2021,GB,29,11
-Pollsters,2021,GER,18,26
-Pollsters,2021,HUN,25,19
-Pollsters,2021,IND,24,23
-Pollsters,2021,ITA,20,29
-Pollsters,2021,JAP,22,15
-Pollsters,2021,KOR,29,16
-Pollsters,2021,KSA,13,46
-Pollsters,2021,MYS,18,37
-Pollsters,2021,MEX,15,34
-Pollsters,2021,NLD,22,21
-Pollsters,2021,PER,34,26
-Pollsters,2021,POL,21,30
-Pollsters,2021,RSA,23,17
-Pollsters,2021,RUS,17,44
-Pollsters,2021,SPA,19,19
-Pollsters,2021,SWE,18,25
-Pollsters,2021,TUR,20,34
-Pollsters,2021,USA,33,15
-Armed forces members,2021,ARG,24,34
-Armed forces members,2021,AUS,14,53
-Armed forces members,2021,BEL,14,38
-Armed forces members,2021,BRA,26,35
-Armed forces members,2021,CAN,12,45
-Armed forces members,2021,CHL,45,21
-Armed forces members,2021,CHN,NA,NA
-Armed forces members,2021,COL,44,20
-Armed forces members,2021,FRA,10,52
-Armed forces members,2021,GB,11,55
-Armed forces members,2021,GER,19,27
-Armed forces members,2021,HUN,20,43
-Armed forces members,2021,IND,15,64
-Armed forces members,2021,ITA,19,45
-Armed forces members,2021,JAP,10,39
-Armed forces members,2021,KOR,22,25
-Armed forces members,2021,KSA,NA,NA
-Armed forces members,2021,MYS,15,52
-Armed forces members,2021,MEX,21,37
-Armed forces members,2021,NLD,10,44
-Armed forces members,2021,PER,21,37
-Armed forces members,2021,POL,20,39
-Armed forces members,2021,RSA,28,29
-Armed forces members,2021,RUS,16,59
-Armed forces members,2021,SPA,19,47
-Armed forces members,2021,SWE,14,47
-Armed forces members,2021,TUR,13,46
-Armed forces members,2021,USA,10,64
-Teachers,2021,ARG,9,56
-Teachers,2021,AUS,11,59
-Teachers,2021,BEL,10,54
-Teachers,2021,BRA,8,68
-Teachers,2021,CAN,9,62
-Teachers,2021,CHL,6,68
-Teachers,2021,CHN,12,65
-Teachers,2021,COL,11,54
-Teachers,2021,FRA,12,51
-Teachers,2021,GB,10,62
-Teachers,2021,GER,11,40
-Teachers,2021,HUN,13,54
-Teachers,2021,IND,13,61
-Teachers,2021,ITA,12,51
-Teachers,2021,JAP,22,22
-Teachers,2021,KOR,19,33
-Teachers,2021,KSA,14,65
-Teachers,2021,MYS,9,65
-Teachers,2021,MEX,7,53
-Teachers,2021,NLD,8,61
-Teachers,2021,PER,13,43
-Teachers,2021,POL,17,44
-Teachers,2021,RSA,12,56
-Teachers,2021,RUS,9,67
-Teachers,2021,SPA,8,59
-Teachers,2021,SWE,13,55
-Teachers,2021,TUR,10,61
-Teachers,2021,USA,13,57
-Ordinary men/women,2021,ARG,7,39
-Ordinary men/women,2021,AUS,11,42
-Ordinary men/women,2021,BEL,9,36
-Ordinary men/women,2021,BRA,14,35
-Ordinary men/women,2021,CAN,8,42
-Ordinary men/women,2021,CHL,11,41
-Ordinary men/women,2021,CHN,15,39
-Ordinary men/women,2021,COL,11,35
-Ordinary men/women,2021,FRA,8,39
-Ordinary men/women,2021,GB,9,39
-Ordinary men/women,2021,GER,6,35
-Ordinary men/women,2021,HUN,16,25
-Ordinary men/women,2021,IND,14,46
-Ordinary men/women,2021,ITA,12,35
-Ordinary men/women,2021,JAP,10,25
-Ordinary men/women,2021,KOR,16,20
-Ordinary men/women,2021,KSA,10,49
-Ordinary men/women,2021,MYS,12,41
-Ordinary men/women,2021,MEX,8,43
-Ordinary men/women,2021,NLD,11,35
-Ordinary men/women,2021,PER,11,33
-Ordinary men/women,2021,POL,11,52
-Ordinary men/women,2021,RSA,14,33
-Ordinary men/women,2021,RUS,4,67
-Ordinary men/women,2021,SPA,7,34
-Ordinary men/women,2021,SWE,18,28
-Ordinary men/women,2021,TUR,14,30
-Ordinary men/women,2021,USA,10,47
-Scientists,2021,ARG,7,63
-Scientists,2021,AUS,10,61
-Scientists,2021,BEL,12,56
-Scientists,2021,BRA,9,68
-Scientists,2021,CAN,7,64
-Scientists,2021,CHL,5,67
-Scientists,2021,CHN,12,72
-Scientists,2021,COL,6,58
-Scientists,2021,FRA,10,56
-Scientists,2021,GB,8,66
-Scientists,2021,GER,8,51
-Scientists,2021,HUN,11,66
-Scientists,2021,IND,13,64
-Scientists,2021,ITA,10,68
-Scientists,2021,JAP,8,43
-Scientists,2021,KOR,16,48
-Scientists,2021,KSA,13,63
-Scientists,2021,MYS,11,57
-Scientists,2021,MEX,9,60
-Scientists,2021,NLD,11,60
-Scientists,2021,PER,9,53
-Scientists,2021,POL,12,61
-Scientists,2021,RSA,15,50
-Scientists,2021,RUS,7,75
-Scientists,2021,SPA,5,71
-Scientists,2021,SWE,11,57
-Scientists,2021,TUR,13,64
-Scientists,2021,USA,12,62
-Doctors,2021,ARG,5,69
-Doctors,2021,AUS,11,67
-Doctors,2021,BEL,10,66
-Doctors,2021,BRA,9,66
-Doctors,2021,CAN,8,70
-Doctors,2021,CHL,7,68
-Doctors,2021,CHN,16,66
-Doctors,2021,COL,10,58
-Doctors,2021,FRA,8,64
-Doctors,2021,GB,9,72
-Doctors,2021,GER,6,60
-Doctors,2021,HUN,13,61
-Doctors,2021,IND,14,58
-Doctors,2021,ITA,11,65
-Doctors,2021,JAP,9,52
-Doctors,2021,KOR,19,38
-Doctors,2021,KSA,12,67
-Doctors,2021,MYS,9,68
-Doctors,2021,MEX,7,66
-Doctors,2021,NLD,8,71
-Doctors,2021,PER,10,58
-Doctors,2021,POL,16,55
-Doctors,2021,RSA,10,65
-Doctors,2021,RUS,9,67
-Doctors,2021,SPA,7,68
-Doctors,2021,SWE,10,62
-Doctors,2021,TUR,8,69
-Doctors,2021,USA,10,69
-Clergy/Priest,2021,ARG,NA,13
-Clergy/Priest,2021,AUS,NA,26
-Clergy/Priest,2021,BEL,NA,17
-Clergy/Priest,2021,BRA,NA,25
-Clergy/Priest,2021,CAN,NA,29
-Clergy/Priest,2021,CHL,NA,9
-Clergy/Priest,2021,CHN,NA,NA
-Clergy/Priest,2021,COL,NA,19
-Clergy/Priest,2021,FRA,NA,22
-Clergy/Priest,2021,GB,NA,33
-Clergy/Priest,2021,GER,NA,22
-Clergy/Priest,2021,HUN,NA,27
-Clergy/Priest,2021,IND,NA,32
-Clergy/Priest,2021,ITA,NA,19
-Clergy/Priest,2021,JAP,NA,24
-Clergy/Priest,2021,KOR,NA,37
-Clergy/Priest,2021,KSA,NA,NA
-Clergy/Priest,2021,MYS,NA,29
-Clergy/Priest,2021,MEX,NA,18
-Clergy/Priest,2021,NLD,NA,22
-Clergy/Priest,2021,PER,NA,28
-Clergy/Priest,2021,POL,NA,20
-Clergy/Priest,2021,RSA,NA,30
-Clergy/Priest,2021,RUS,NA,33
-Clergy/Priest,2021,SPA,NA,10
-Clergy/Priest,2021,SWE,NA,40
-Clergy/Priest,2021,TUR,NA,19
-Clergy/Priest,2021,USA,NA,45
-Politicians generally,2022,ARG,82,8
-Politicians generally,2022,AUS,58,12
-Politicians generally,2022,BEL,55,12
-Politicians generally,2022,BRA,76,9
-Politicians generally,2022,CAN,56,14
-Politicians generally,2022,CHL,79,7
-Politicians generally,2022,CHN,NA,NA
-Politicians generally,2022,COL,75,9
-Politicians generally,2022,DEU,48,18
-Politicians generally,2022,DNK,43,21
-Politicians generally,2022,ESP,76,8
-Politicians generally,2022,FRA,57,14
-Politicians generally,2022,GBR,60,16
-Politicians generally,2022,HUN,76,7
-Politicians generally,2022,IND,50,28
-Politicians generally,2022,ITA,63,11
-Politicians generally,2022,JAP,56,7
-Politicians generally,2022,KOR,69,9
-Politicians generally,2022,MEX,69,9
-Politicians generally,2022,MYS,52,17
-Politicians generally,2022,NDL,47,13
-Politicians generally,2022,PER,83,7
-Politicians generally,2022,POL,74,7
-Politicians generally,2022,KSA,NA,NA
-Politicians generally,2022,SWE,52,15
-Politicians generally,2022,TUR,68,14
-Politicians generally,2022,USA,66,10
-Politicians generally,2022,RSA,76,10
-Government ministers,2022,ARG,74,7
-Government ministers,2022,AUS,50,16
-Government ministers,2022,BEL,54,14
-Government ministers,2022,BRA,64,13
-Government ministers,2022,CAN,46,19
-Government ministers,2022,CHL,62,14
-Government ministers,2022,CHN,NA,NA
-Government ministers,2022,COL,65,12
-Government ministers,2022,DEU,42,23
-Government ministers,2022,DNK,28,28
-Government ministers,2022,ESP,66,11
-Government ministers,2022,FRA,55,16
-Government ministers,2022,GBR,57,17
-Government ministers,2022,HUN,71,9
-Government ministers,2022,IND,43,31
-Government ministers,2022,ITA,52,14
-Government ministers,2022,JAP,48,10
-Government ministers,2022,KOR,50,17
-Government ministers,2022,MEX,59,15
-Government ministers,2022,MYS,49,20
-Government ministers,2022,NDL,43,17
-Government ministers,2022,PER,76,10
-Government ministers,2022,POL,68,13
-Government ministers,2022,KSA,NA,NA
-Government ministers,2022,SWE,29,26
-Government ministers,2022,TUR,56,18
-Government ministers,2022,USA,49,15
-Government ministers,2022,RSA,73,11
-Advertising executives,2022,ARG,40,17
-Advertising executives,2022,AUS,51,12
-Advertising executives,2022,BEL,58,14
-Advertising executives,2022,BRA,39,18
-Advertising executives,2022,CAN,44,15
-Advertising executives,2022,CHL,44,17
-Advertising executives,2022,CHN,38,30
-Advertising executives,2022,COL,36,25
-Advertising executives,2022,DEU,49,18
-Advertising executives,2022,DNK,42,15
-Advertising executives,2022,ESP,51,13
-Advertising executives,2022,FRA,56,13
-Advertising executives,2022,GBR,45,16
-Advertising executives,2022,HUN,52,8
-Advertising executives,2022,IND,32,35
-Advertising executives,2022,ITA,43,16
-Advertising executives,2022,JAP,31,9
-Advertising executives,2022,KOR,52,10
-Advertising executives,2022,MEX,36,22
-Advertising executives,2022,MYS,31,21
-Advertising executives,2022,NDL,43,11
-Advertising executives,2022,PER,42,18
-Advertising executives,2022,POL,52,11
-Advertising executives,2022,KSA,29,40
-Advertising executives,2022,SWE,49,14
-Advertising executives,2022,TUR,48,18
-Advertising executives,2022,USA,48,13
-Advertising executives,2022,RSA,38,24
-Clergy/Priests,2022,ARG,60,16
-Clergy/Priests,2022,AUS,36,27
-Clergy/Priests,2022,BEL,40,18
-Clergy/Priests,2022,BRA,37,30
-Clergy/Priests,2022,CAN,35,27
-Clergy/Priests,2022,CHL,64,14
-Clergy/Priests,2022,CHN,NA,NA
-Clergy/Priests,2022,COL,46,25
-Clergy/Priests,2022,DEU,36,27
-Clergy/Priests,2022,DNK,19,46
-Clergy/Priests,2022,ESP,59,15
-Clergy/Priests,2022,FRA,40,24
-Clergy/Priests,2022,GBR,29,33
-Clergy/Priests,2022,HUN,48,21
-Clergy/Priests,2022,IND,29,40
-Clergy/Priests,2022,ITA,48,21
-Clergy/Priests,2022,JAP,30,18
-Clergy/Priests,2022,KOR,28,36
-Clergy/Priests,2022,MEX,48,25
-Clergy/Priests,2022,MYS,32,25
-Clergy/Priests,2022,NDL,34,24
-Clergy/Priests,2022,PER,40,28
-Clergy/Priests,2022,POL,60,16
-Clergy/Priests,2022,KSA,NA,NA
-Clergy/Priests,2022,SWE,24,41
-Clergy/Priests,2022,TUR,47,16
-Clergy/Priests,2022,USA,28,37
-Clergy/Priests,2022,RSA,34,31
-Journalists,2022,ARG,46,18
-Journalists,2022,AUS,41,21
-Journalists,2022,BEL,38,21
-Journalists,2022,BRA,34,34
-Journalists,2022,CAN,30,28
-Journalists,2022,CHL,44,25
-Journalists,2022,CHN,20,45
-Journalists,2022,COL,44,23
-Journalists,2022,DEU,32,29
-Journalists,2022,DNK,36,24
-Journalists,2022,ESP,46,17
-Journalists,2022,FRA,36,27
-Journalists,2022,GBR,42,20
-Journalists,2022,HUN,58,9
-Journalists,2022,IND,35,38
-Journalists,2022,ITA,44,18
-Journalists,2022,JAP,36,16
-Journalists,2022,KOR,43,15
-Journalists,2022,MEX,30,33
-Journalists,2022,MYS,27,28
-Journalists,2022,NDL,22,34
-Journalists,2022,PER,47,23
-Journalists,2022,POL,40,24
-Journalists,2022,KSA,27,44
-Journalists,2022,SWE,37,27
-Journalists,2022,TUR,50,16
-Journalists,2022,USA,37,24
-Journalists,2022,RSA,38,29
-Bankers,2022,ARG,46,15
-Bankers,2022,AUS,38,20
-Bankers,2022,BEL,43,18
-Bankers,2022,BRA,53,14
-Bankers,2022,CAN,26,30
-Bankers,2022,CHL,49,16
-Bankers,2022,CHN,24,41
-Bankers,2022,COL,53,18
-Bankers,2022,DEU,37,25
-Bankers,2022,DNK,26,29
-Bankers,2022,ESP,64,11
-Bankers,2022,FRA,45,18
-Bankers,2022,GBR,40,23
-Bankers,2022,HUN,55,12
-Bankers,2022,IND,22,52
-Bankers,2022,ITA,40,17
-Bankers,2022,JAP,30,16
-Bankers,2022,KOR,20,29
-Bankers,2022,MEX,45,20
-Bankers,2022,MYS,17,42
-Bankers,2022,NDL,42,16
-Bankers,2022,PER,49,16
-Bankers,2022,POL,54,11
-Bankers,2022,KSA,23,51
-Bankers,2022,SWE,26,30
-Bankers,2022,TUR,45,22
-Bankers,2022,USA,29,27
-Bankers,2022,RSA,29,32
-Civil servants,2022,ARG,73,10
-Civil servants,2022,AUS,21,29
-Civil servants,2022,BEL,24,23
-Civil servants,2022,BRA,37,24
-Civil servants,2022,CAN,20,32
-Civil servants,2022,CHL,49,16
-Civil servants,2022,CHN,NA,NA
-Civil servants,2022,COL,59,14
-Civil servants,2022,DEU,26,29
-Civil servants,2022,DNK,22,37
-Civil servants,2022,ESP,33,24
-Civil servants,2022,FRA,20,37
-Civil servants,2022,GBR,25,31
-Civil servants,2022,HUN,34,20
-Civil servants,2022,IND,27,46
-Civil servants,2022,ITA,34,20
-Civil servants,2022,JAP,27,17
-Civil servants,2022,KOR,33,19
-Civil servants,2022,MEX,64,11
-Civil servants,2022,MYS,27,31
-Civil servants,2022,NDL,28,23
-Civil servants,2022,PER,72,7
-Civil servants,2022,POL,59,11
-Civil servants,2022,KSA,21,49
-Civil servants,2022,SWE,20,28
-Civil servants,2022,TUR,28,31
-Civil servants,2022,USA,39,22
-Civil servants,2022,RSA,NA,31
-Television news readers,2022,ARG,48,19
-Television news readers,2022,AUS,30,27
-Television news readers,2022,BEL,27,30
-Television news readers,2022,BRA,36,28
-Television news readers,2022,CAN,27,30
-Television news readers,2022,CHL,49,19
-Television news readers,2022,CHN,16,47
-Television news readers,2022,COL,53,18
-Television news readers,2022,DEU,24,39
-Television news readers,2022,DNK,25,34
-Television news readers,2022,ESP,40,20
-Television news readers,2022,FRA,36,24
-Television news readers,2022,GBR,20,37
-Television news readers,2022,HUN,48,15
-Television news readers,2022,IND,34,37
-Television news readers,2022,ITA,42,19
-Television news readers,2022,JAP,25,19
-Television news readers,2022,KOR,30,21
-Television news readers,2022,MEX,47,17
-Television news readers,2022,MYS,19,36
-Television news readers,2022,NDL,20,37
-Television news readers,2022,PER,50,20
-Television news readers,2022,POL,48,15
-Television news readers,2022,KSA,24,49
-Television news readers,2022,SWE,47,40
-Television news readers,2022,TUR,37,20
-Television news readers,2022,USA,30,24
-Television news readers,2022,RSA,NA,37
-Business leaders,2022,ARG,43,19
-Business leaders,2022,AUS,36,19
-Business leaders,2022,BEL,31,15
-Business leaders,2022,BRA,38,20
-Business leaders,2022,CAN,31,21
-Business leaders,2022,CHL,55,14
-Business leaders,2022,CHN,21,43
-Business leaders,2022,COL,32,33
-Business leaders,2022,DEU,30,22
-Business leaders,2022,DNK,21,28
-Business leaders,2022,ESP,47,16
-Business leaders,2022,FRA,27,25
-Business leaders,2022,GBR,35,22
-Business leaders,2022,HUN,36,16
-Business leaders,2022,IND,29,41
-Business leaders,2022,ITA,30,23
-Business leaders,2022,JAP,24,13
-Business leaders,2022,KOR,40,15
-Business leaders,2022,MEX,34,24
-Business leaders,2022,MYS,25,28
-Business leaders,2022,NDL,20,22
-Business leaders,2022,PER,36,26
-Business leaders,2022,POL,41,16
-Business leaders,2022,KSA,22,51
-Business leaders,2022,SWE,29,19
-Business leaders,2022,TUR,43,20
-Business leaders,2022,USA,34,18
-Business leaders,2022,RSA,31,29
-Lawyers,2022,ARG,45,18
-Lawyers,2022,AUS,33,28
-Lawyers,2022,BEL,37,24
-Lawyers,2022,BRA,39,20
-Lawyers,2022,CAN,33,26
-Lawyers,2022,CHL,42,25
-Lawyers,2022,CHN,15,55
-Lawyers,2022,COL,45,20
-Lawyers,2022,DEU,21,38
-Lawyers,2022,DNK,24,34
-Lawyers,2022,ESP,36,27
-Lawyers,2022,FRA,27,31
-Lawyers,2022,GBR,27,33
-Lawyers,2022,HUN,39,21
-Lawyers,2022,IND,32,41
-Lawyers,2022,ITA,37,21
-Lawyers,2022,JAP,20,30
-Lawyers,2022,KOR,31,22
-Lawyers,2022,MEX,33,21
-Lawyers,2022,MYS,25,32
-Lawyers,2022,NDL,20,39
-Lawyers,2022,PER,50,16
-Lawyers,2022,POL,34,27
-Lawyers,2022,KSA,23,48
-Lawyers,2022,SWE,19,38
-Lawyers,2022,TUR,40,26
-Lawyers,2022,USA,39,17
-Lawyers,2022,RSA,35,30
-The police,2022,ARG,46,20
-The police,2022,AUS,20,50
-The police,2022,BEL,19,40
-The police,2022,BRA,40,29
-The police,2022,CAN,22,45
-The police,2022,CHL,41,32
-The police,2022,CHN,NA,NA
-The police,2022,COL,50,24
-The police,2022,DEU,17,NA
-The police,2022,DNK,20,NA
-The police,2022,ESP,21,50
-The police,2022,FRA,19,50
-The police,2022,GBR,25,44
-The police,2022,HUN,33,29
-The police,2022,IND,30,41
-The police,2022,ITA,22,39
-The police,2022,JAP,21,31
-The police,2022,KOR,34,24
-The police,2022,MEX,59,13
-The police,2022,MYS,25,38
-The police,2022,NDL,12,58
-The police,2022,PER,46,20
-The police,2022,POL,40,24
-The police,2022,KSA,NA,NA
-The police,2022,SWE,18,55
-The police,2022,TUR,28,42
-The police,2022,USA,27,41
-The police,2022,RSA,65,16
-Judges,2022,ARG,63,13
-Judges,2022,AUS,19,48
-Judges,2022,BEL,25,36
-Judges,2022,BRA,37,28
-Judges,2022,CAN,17,46
-Judges,2022,CHL,53,17
-Judges,2022,CHN,NA,NA
-Judges,2022,COL,47,21
-Judges,2022,DEU,15,47
-Judges,2022,DNK,15,57
-Judges,2022,ESP,33,32
-Judges,2022,FRA,21,42
-Judges,2022,GBR,17,49
-Judges,2022,HUN,35,26
-Judges,2022,IND,22,54
-Judges,2022,ITA,33,27
-Judges,2022,JAP,16,36
-Judges,2022,KOR,36,25
-Judges,2022,MEX,46,21
-Judges,2022,MYS,19,40
-Judges,2022,NDL,14,59
-Judges,2022,PER,67,11
-Judges,2022,POL,42,24
-Judges,2022,KSA,NA,NA
-Judges,2022,SWE,16,49
-Judges,2022,TUR,40,29
-Judges,2022,USA,22,34
-Judges,2022,RSA,31,36
-Pollsters,2022,ARG,28,30
-Pollsters,2022,AUS,36,13
-Pollsters,2022,BEL,30,23
-Pollsters,2022,BRA,28,37
-Pollsters,2022,CAN,27,22
-Pollsters,2022,CHL,28,28
-Pollsters,2022,CHN,NA,NA
-Pollsters,2022,COL,29,37
-Pollsters,2022,DEU,22,33
-Pollsters,2022,DNK,20,33
-Pollsters,2022,ESP,30,26
-Pollsters,2022,FRA,18,38
-Pollsters,2022,GBR,25,20
-Pollsters,2022,HUN,33,22
-Pollsters,2022,IND,31,35
-Pollsters,2022,ITA,28,28
-Pollsters,2022,JAP,28,12
-Pollsters,2022,KOR,36,16
-Pollsters,2022,MEX,20,39
-Pollsters,2022,MYS,21,34
-Pollsters,2022,NDL,24,25
-Pollsters,2022,PER,28,37
-Pollsters,2022,POL,36,20
-Pollsters,2022,KSA,20,50
-Pollsters,2022,SWE,23,32
-Pollsters,2022,TUR,35,27
-Pollsters,2022,USA,32,16
-Pollsters,2022,RSA,31,19
-Armed forces members,2022,ARG,28,36
-Armed forces members,2022,AUS,15,50
-Armed forces members,2022,BEL,20,33
-Armed forces members,2022,BRA,34,30
-Armed forces members,2022,CAN,12,50
-Armed forces members,2022,CHL,42,31
-Armed forces members,2022,CHN,NA,NA
-Armed forces members,2022,COL,45,29
-Armed forces members,2022,DEU,21,36
-Armed forces members,2022,DNK,19,41
-Armed forces members,2022,ESP,25,47
-Armed forces members,2022,FRA,15,52
-Armed forces members,2022,GBR,16,51
-Armed forces members,2022,HUN,23,38
-Armed forces members,2022,IND,18,64
-Armed forces members,2022,ITA,23,37
-Armed forces members,2022,JAP,16,33
-Armed forces members,2022,KOR,26,25
-Armed forces members,2022,MEX,32,38
-Armed forces members,2022,MYS,15,46
-Armed forces members,2022,NDL,12,44
-Armed forces members,2022,PER,32,34
-Armed forces members,2022,POL,27,30
-Armed forces members,2022,KSA,NA,NA
-Armed forces members,2022,SWE,11,56
-Armed forces members,2022,TUR,28,39
-Armed forces members,2022,USA,12,56
-Armed forces members,2022,RSA,37,28
-Ordinary men/women,2022,ARG,16,41
-Ordinary men/women,2022,AUS,15,40
-Ordinary men/women,2022,BEL,17,32
-Ordinary men/women,2022,BRA,22,36
-Ordinary men/women,2022,CAN,12,37
-Ordinary men/women,2022,CHL,16,46
-Ordinary men/women,2022,CHN,15,48
-Ordinary men/women,2022,COL,16,47
-Ordinary men/women,2022,DEU,14,38
-Ordinary men/women,2022,DNK,14,43
-Ordinary men/women,2022,ESP,13,44
-Ordinary men/women,2022,FRA,13,39
-Ordinary men/women,2022,GBR,13,40
-Ordinary men/women,2022,HUN,22,27
-Ordinary men/women,2022,IND,17,52
-Ordinary men/women,2022,ITA,19,34
-Ordinary men/women,2022,JAP,18,16
-Ordinary men/women,2022,KOR,19,22
-Ordinary men/women,2022,MEX,14,53
-Ordinary men/women,2022,MYS,14,35
-Ordinary men/women,2022,NDL,16,32
-Ordinary men/women,2022,PER,19,35
-Ordinary men/women,2022,POL,18,35
-Ordinary men/women,2022,KSA,21,47
-Ordinary men/women,2022,SWE,19,31
-Ordinary men/women,2022,TUR,28,27
-Ordinary men/women,2022,USA,12,40
-Ordinary men/women,2022,RSA,28,31
-Teachers,2022,ARG,12,55
-Teachers,2022,AUS,14,57
-Teachers,2022,BEL,17,47
-Teachers,2022,BRA,15,64
-Teachers,2022,CAN,12,57
-Teachers,2022,CHL,14,63
-Teachers,2022,CHN,12,66
-Teachers,2022,COL,16,59
-Teachers,2022,DEU,18,41
-Teachers,2022,DNK,14,45
-Teachers,2022,ESP,11,62
-Teachers,2022,FRA,14,52
-Teachers,2022,GBR,11,59
-Teachers,2022,HUN,14,52
-Teachers,2022,IND,17,62
-Teachers,2022,ITA,17,43
-Teachers,2022,JAP,29,17
-Teachers,2022,KOR,23,31
-Teachers,2022,MEX,16,55
-Teachers,2022,MYS,10,57
-Teachers,2022,NDL,10,61
-Teachers,2022,PER,20,40
-Teachers,2022,POL,21,34
-Teachers,2022,KSA,19,58
-Teachers,2022,SWE,18,52
-Teachers,2022,TUR,17,56
-Teachers,2022,USA,14,58
-Teachers,2022,RSA,18,55
-Scientists,2022,ARG,13,64
-Scientists,2022,AUS,14,59
-Scientists,2022,BEL,17,55
-Scientists,2022,BRA,14,61
-Scientists,2022,CAN,12,58
-Scientists,2022,CHL,15,63
-Scientists,2022,CHN,12,71
-Scientists,2022,COL,16,65
-Scientists,2022,DEU,19,52
-Scientists,2022,DNK,14,60
-Scientists,2022,ESP,12,70
-Scientists,2022,FRA,12,57
-Scientists,2022,GBR,11,62
-Scientists,2022,HUN,18,53
-Scientists,2022,IND,19,63
-Scientists,2022,ITA,18,56
-Scientists,2022,JAP,11,37
-Scientists,2022,KOR,15,49
-Scientists,2022,MEX,11,70
-Scientists,2022,MYS,13,50
-Scientists,2022,NDL,12,59
-Scientists,2022,PER,19,53
-Scientists,2022,POL,21,48
-Scientists,2022,KSA,20,60
-Scientists,2022,SWE,13,54
-Scientists,2022,TUR,17,63
-Scientists,2022,USA,16,53
-Scientists,2022,RSA,27,44
-Doctors,2022,ARG,12,68
-Doctors,2022,AUS,13,65
-Doctors,2022,BEL,13,61
-Doctors,2022,BRA,15,59
-Doctors,2022,CAN,11,62
-Doctors,2022,CHL,16,60
-Doctors,2022,CHN,12,68
-Doctors,2022,COL,15,61
-Doctors,2022,DEU,12,60
-Doctors,2022,DNK,14,62
-Doctors,2022,ESP,10,71
-Doctors,2022,FRA,10,65
-Doctors,2022,GBR,14,66
-Doctors,2022,HUN,26,40
-Doctors,2022,IND,23,55
-Doctors,2022,ITA,16,54
-Doctors,2022,JAP,15,43
-Doctors,2022,KOR,19,43
-Doctors,2022,MEX,9,70
-Doctors,2022,MYS,11,57
-Doctors,2022,NDL,10,69
-Doctors,2022,PER,20,53
-Doctors,2022,POL,23,39
-Doctors,2022,KSA,16,60
-Doctors,2022,SWE,17,55
-Doctors,2022,TUR,17,58
-Doctors,2022,USA,11,60
-Doctors,2022,RSA,19,61
+country_code,country_name,year,occupation,trust,distrust
+ARG,Argentina,2019,Politicians generally,5,79
+AUS,Australia,2019,Politicians generally,10,64
+BEL,Belgium,2019,Politicians generally,9,64
+BRA,Brazil,2019,Politicians generally,8,74
+CAN,Canada,2019,Politicians generally,10,61
+CHN,China,2019,Politicians generally,22,38
+FRA,France,2019,Politicians generally,8,64
+GB,United Kingdom,2019,Politicians generally,11,63
+GER,Germany,2019,Politicians generally,9,56
+HUN,Hungary,2019,Politicians generally,5,77
+IND,India,2019,Politicians generally,17,59
+ITA,Italy,2019,Politicians generally,8,67
+JAP,Japan,2019,Politicians generally,7,54
+KOR,South Korea,2019,Politicians generally,8,69
+KSA,Saudi Arabia,2019,Politicians generally,NA,NA
+MEX,Mexico,2019,Politicians generally,6,75
+POL,Poland,2019,Politicians generally,5,73
+RSA,Russia,2019,Politicians generally,6,79
+RUS,Russia,2019,Politicians generally,10,73
+SPA,Spain,2019,Politicians generally,7,76
+SWE,Sweden,2019,Politicians generally,11,57
+TUR,Turkey,2019,Politicians generally,11,65
+USA,United States,2019,Politicians generally,9,69
+ARG,Argentina,2019,Government ministers,8,71
+AUS,Australia,2019,Government ministers,12,55
+BEL,Belgium,2019,Government ministers,9,62
+BRA,Brazil,2019,Government ministers,10,67
+CAN,Canada,2019,Government ministers,13,46
+CHN,China,2019,Government ministers,50,15
+FRA,France,2019,Government ministers,10,58
+GB,United Kingdom,2019,Government ministers,11,57
+GER,Germany,2019,Government ministers,11,50
+HUN,Hungary,2019,Government ministers,8,70
+IND,India,2019,Government ministers,21,52
+ITA,Italy,2019,Government ministers,15,53
+JAP,Japan,2019,Government ministers,10,48
+KOR,South Korea,2019,Government ministers,12,45
+KSA,Saudi Arabia,2019,Government ministers,NA,NA
+MEX,Mexico,2019,Government ministers,9,65
+POL,Poland,2019,Government ministers,13,65
+RSA,Russia,2019,Government ministers,5,77
+RUS,Russia,2019,Government ministers,10,67
+SPA,Spain,2019,Government ministers,8,71
+SWE,Sweden,2019,Government ministers,22,34
+TUR,Turkey,2019,Government ministers,23,52
+USA,United States,2019,Government ministers,11,41
+ARG,Argentina,2019,Advertising executives,16,40
+AUS,Australia,2019,Advertising executives,8,55
+BEL,Belgium,2019,Advertising executives,7,59
+BRA,Brazil,2019,Advertising executives,17,37
+CAN,Canada,2019,Advertising executives,10,48
+CHN,China,2019,Advertising executives,30,32
+FRA,France,2019,Advertising executives,10,55
+GB,United Kingdom,2019,Advertising executives,9,55
+GER,Germany,2019,Advertising executives,9,50
+HUN,Hungary,2019,Advertising executives,4,53
+IND,India,2019,Advertising executives,22,41
+ITA,Italy,2019,Advertising executives,12,42
+JAP,Japan,2019,Advertising executives,8,35
+KOR,South Korea,2019,Advertising executives,10,53
+KSA,Saudi Arabia,2019,Advertising executives,31,30
+MEX,Mexico,2019,Advertising executives,22,33
+POL,Poland,2019,Advertising executives,10,46
+RSA,Russia,2019,Advertising executives,14,39
+RUS,Russia,2019,Advertising executives,9,64
+SPA,Spain,2019,Advertising executives,11,44
+SWE,Sweden,2019,Advertising executives,6,52
+TUR,Turkey,2019,Advertising executives,17,42
+USA,United States,2019,Advertising executives,12,49
+ARG,Argentina,2019,Clergy/Priests,NA,60
+AUS,Australia,2019,Clergy/Priests,NA,42
+BEL,Belgium,2019,Clergy/Priests,NA,47
+BRA,Brazil,2019,Clergy/Priests,NA,34
+CAN,Canada,2019,Clergy/Priests,NA,42
+CHN,China,2019,Clergy/Priests,NA,29
+FRA,France,2019,Clergy/Priests,NA,44
+GB,United Kingdom,2019,Clergy/Priests,NA,37
+GER,Germany,2019,Clergy/Priests,NA,38
+HUN,Hungary,2019,Clergy/Priests,NA,45
+IND,India,2019,Clergy/Priests,NA,32
+ITA,Italy,2019,Clergy/Priests,NA,55
+JAP,Japan,2019,Clergy/Priests,NA,31
+KOR,South Korea,2019,Clergy/Priests,NA,37
+KSA,Saudi Arabia,2019,Clergy/Priests,NA,NA
+MEX,Mexico,2019,Clergy/Priests,NA,50
+POL,Poland,2019,Clergy/Priests,NA,60
+RSA,Russia,2019,Clergy/Priests,NA,27
+RUS,Russia,2019,Clergy/Priests,NA,44
+SPA,Spain,2019,Clergy/Priests,NA,68
+SWE,Sweden,2019,Clergy/Priests,NA,27
+TUR,Turkey,2019,Clergy/Priests,NA,44
+USA,United States,2019,Clergy/Priests,NA,27
+ARG,Argentina,2019,Bankers,14,50
+AUS,Australia,2019,Bankers,13,52
+BEL,Belgium,2019,Bankers,13,49
+BRA,Brazil,2019,Bankers,13,52
+CAN,Canada,2019,Bankers,22,27
+CHN,China,2019,Bankers,43,24
+FRA,France,2019,Bankers,13,50
+GB,United Kingdom,2019,Bankers,13,53
+GER,Germany,2019,Bankers,12,43
+HUN,Hungary,2019,Bankers,8,64
+IND,India,2019,Bankers,38,24
+ITA,Italy,2019,Bankers,13,45
+JAP,Japan,2019,Bankers,16,30
+KOR,South Korea,2019,Bankers,23,20
+KSA,Saudi Arabia,2019,Bankers,45,20
+MEX,Mexico,2019,Bankers,23,37
+POL,Poland,2019,Bankers,18,45
+RSA,Russia,2019,Bankers,28,27
+RUS,Russia,2019,Bankers,20,58
+SPA,Spain,2019,Bankers,7,70
+SWE,Sweden,2019,Bankers,23,29
+TUR,Turkey,2019,Bankers,23,43
+USA,United States,2019,Bankers,20,34
+ARG,Argentina,2019,Journalists,17,46
+AUS,Australia,2019,Journalists,23,41
+BEL,Belgium,2019,Journalists,16,36
+BRA,Brazil,2019,Journalists,25,38
+CAN,Canada,2019,Journalists,23,27
+CHN,China,2019,Journalists,33,19
+FRA,France,2019,Journalists,14,40
+GB,United Kingdom,2019,Journalists,24,46
+GER,Germany,2019,Journalists,17,31
+HUN,Hungary,2019,Journalists,18,52
+IND,India,2019,Journalists,27,38
+ITA,Italy,2019,Journalists,16,42
+JAP,Japan,2019,Journalists,18,38
+KOR,South Korea,2019,Journalists,24,40
+KSA,Saudi Arabia,2019,Journalists,NA,31
+MEX,Mexico,2019,Journalists,19,30
+POL,Poland,2019,Journalists,17,35
+RSA,Russia,2019,Journalists,31,35
+RUS,Russia,2019,Journalists,37,39
+SPA,Spain,2019,Journalists,7,39
+SWE,Sweden,2019,Journalists,28,49
+TUR,Turkey,2019,Journalists,15,51
+USA,United States,2019,Journalists,32,39
+ARG,Argentina,2019,Civil servants,25,71
+AUS,Australia,2019,Civil servants,9,19
+BEL,Belgium,2019,Civil servants,21,23
+BRA,Brazil,2019,Civil servants,24,33
+CAN,Canada,2019,Civil servants,16,23
+CHN,China,2019,Civil servants,45,22
+FRA,France,2019,Civil servants,35,17
+GB,United Kingdom,2019,Civil servants,11,24
+GER,Germany,2019,Civil servants,26,25
+HUN,Hungary,2019,Civil servants,20,40
+IND,India,2019,Civil servants,23,26
+ITA,Italy,2019,Civil servants,29,42
+JAP,Japan,2019,Civil servants,10,24
+KOR,South Korea,2019,Civil servants,14,40
+KSA,Saudi Arabia,2019,Civil servants,39,20
+MEX,Mexico,2019,Civil servants,36,68
+POL,Poland,2019,Civil servants,23,54
+RSA,Russia,2019,Civil servants,13,37
+RUS,Russia,2019,Civil servants,39,51
+SPA,Spain,2019,Civil servants,22,26
+SWE,Sweden,2019,Civil servants,19,19
+TUR,Turkey,2019,Civil servants,23,25
+USA,United States,2019,Civil servants,14,13
+ARG,Argentina,2019,Television news readers,NA,45
+AUS,Australia,2019,Television news readers,NA,27
+BEL,Belgium,2019,Television news readers,NA,22
+BRA,Brazil,2019,Television news readers,NA,42
+CAN,Canada,2019,Television news readers,NA,26
+CHN,China,2019,Television news readers,NA,18
+FRA,France,2019,Television news readers,NA,37
+GB,United Kingdom,2019,Television news readers,NA,19
+GER,Germany,2019,Television news readers,NA,19
+HUN,Hungary,2019,Television news readers,NA,45
+IND,India,2019,Television news readers,NA,38
+ITA,Italy,2019,Television news readers,NA,43
+JAP,Japan,2019,Television news readers,NA,26
+KOR,South Korea,2019,Television news readers,NA,27
+KSA,Saudi Arabia,2019,Television news readers,NA,26
+MEX,Mexico,2019,Television news readers,NA,43
+POL,Poland,2019,Television news readers,NA,39
+RSA,Russia,2019,Television news readers,NA,22
+RUS,Russia,2019,Television news readers,NA,58
+SPA,Spain,2019,Television news readers,NA,31
+SWE,Sweden,2019,Television news readers,NA,26
+TUR,Turkey,2019,Television news readers,NA,46
+USA,United States,2019,Television news readers,NA,35
+ARG,Argentina,2019,Business leaders,18,45
+AUS,Australia,2019,Business leaders,17,34
+BEL,Belgium,2019,Business leaders,23,26
+BRA,Brazil,2019,Business leaders,20,31
+CAN,Canada,2019,Business leaders,19,30
+CHN,China,2019,Business leaders,46,18
+FRA,France,2019,Business leaders,26,23
+GB,United Kingdom,2019,Business leaders,16,34
+GER,Germany,2019,Business leaders,13,26
+HUN,Hungary,2019,Business leaders,12,38
+IND,India,2019,Business leaders,34,30
+ITA,Italy,2019,Business leaders,21,26
+JAP,Japan,2019,Business leaders,15,23
+KOR,South Korea,2019,Business leaders,12,42
+KSA,Saudi Arabia,2019,Business leaders,40,22
+MEX,Mexico,2019,Business leaders,35,23
+POL,Poland,2019,Business leaders,21,39
+RSA,Russia,2019,Business leaders,30,29
+RUS,Russia,2019,Business leaders,21,48
+SPA,Spain,2019,Business leaders,12,50
+SWE,Sweden,2019,Business leaders,19,28
+TUR,Turkey,2019,Business leaders,19,41
+USA,United States,2019,Business leaders,19,32
+ARG,Argentina,2019,Lawyers,18,45
+AUS,Australia,2019,Lawyers,22,38
+BEL,Belgium,2019,Lawyers,21,34
+BRA,Brazil,2019,Lawyers,20,40
+CAN,Canada,2019,Lawyers,20,36
+CHN,China,2019,Lawyers,53,19
+FRA,France,2019,Lawyers,28,25
+GB,United Kingdom,2019,Lawyers,26,29
+GER,Germany,2019,Lawyers,25,24
+HUN,Hungary,2019,Lawyers,16,44
+IND,India,2019,Lawyers,25,39
+ITA,Italy,2019,Lawyers,20,34
+JAP,Japan,2019,Lawyers,28,18
+KOR,South Korea,2019,Lawyers,14,33
+KSA,Saudi Arabia,2019,Lawyers,34,23
+MEX,Mexico,2019,Lawyers,17,38
+POL,Poland,2019,Lawyers,31,33
+RSA,Russia,2019,Lawyers,21,37
+RUS,Russia,2019,Lawyers,36,26
+SPA,Spain,2019,Lawyers,23,30
+SWE,Sweden,2019,Lawyers,33,21
+TUR,Turkey,2019,Lawyers,23,35
+USA,United States,2019,Lawyers,15,42
+ARG,Argentina,2019,Judges,12,61
+AUS,Australia,2019,Judges,44,17
+BEL,Belgium,2019,Judges,38,23
+BRA,Brazil,2019,Judges,26,36
+CAN,Canada,2019,Judges,40,18
+CHN,China,2019,Judges,65,15
+FRA,France,2019,Judges,36,21
+GB,United Kingdom,2019,Judges,43,16
+GER,Germany,2019,Judges,41,14
+HUN,Hungary,2019,Judges,24,38
+IND,India,2019,Judges,42,21
+ITA,Italy,2019,Judges,29,29
+JAP,Japan,2019,Judges,31,17
+KOR,South Korea,2019,Judges,15,42
+KSA,Saudi Arabia,2019,Judges,NA,NA
+MEX,Mexico,2019,Judges,18,47
+POL,Poland,2019,Judges,28,36
+RSA,Russia,2019,Judges,33,25
+RUS,Russia,2019,Judges,24,47
+SPA,Spain,2019,Judges,23,36
+SWE,Sweden,2019,Judges,43,17
+TUR,Turkey,2019,Judges,32,31
+USA,United States,2019,Judges,39,15
+ARG,Argentina,2019,The police,26,41
+AUS,Australia,2019,The police,56,15
+BEL,Belgium,2019,The police,44,17
+BRA,Brazil,2019,The police,31,32
+CAN,Canada,2019,The police,52,20
+CHN,China,2019,The police,80,9
+FRA,France,2019,The police,53,12
+GB,United Kingdom,2019,The police,47,18
+GER,Germany,2019,The police,49,14
+HUN,Hungary,2019,The police,31,34
+IND,India,2019,The police,33,35
+ITA,Italy,2019,The police,50,15
+JAP,Japan,2019,The police,33,21
+KOR,South Korea,2019,The police,21,28
+KSA,Saudi Arabia,2019,The police,NA,NA
+MEX,Mexico,2019,The police,11,63
+POL,Poland,2019,The police,36,30
+RSA,Russia,2019,The police,12,60
+RUS,Russia,2019,The police,20,41
+SPA,Spain,2019,The police,45,20
+SWE,Sweden,2019,The police,49,16
+TUR,Turkey,2019,The police,39,30
+USA,United States,2019,The police,48,21
+ARG,Argentina,2019,Pollsters,8,24
+AUS,Australia,2019,Pollsters,24,35
+BEL,Belgium,2019,Pollsters,24,26
+BRA,Brazil,2019,Pollsters,23,33
+CAN,Canada,2019,Pollsters,24,25
+CHN,China,2019,Pollsters,28,20
+FRA,France,2019,Pollsters,35,17
+GB,United Kingdom,2019,Pollsters,26,34
+GER,Germany,2019,Pollsters,20,18
+HUN,Hungary,2019,Pollsters,15,31
+IND,India,2019,Pollsters,38,31
+ITA,Italy,2019,Pollsters,15,23
+JAP,Japan,2019,Pollsters,18,29
+KOR,South Korea,2019,Pollsters,13,32
+KSA,Saudi Arabia,2019,Pollsters,40,19
+MEX,Mexico,2019,Pollsters,9,19
+POL,Poland,2019,Pollsters,13,31
+RSA,Russia,2019,Pollsters,21,31
+RUS,Russia,2019,Pollsters,27,19
+SPA,Spain,2019,Pollsters,22,25
+SWE,Sweden,2019,Pollsters,27,25
+TUR,Turkey,2019,Pollsters,31,33
+USA,United States,2019,Pollsters,34,35
+ARG,Argentina,2019,Armed forces members,32,35
+AUS,Australia,2019,Armed forces members,58,10
+BEL,Belgium,2019,Armed forces members,36,15
+BRA,Brazil,2019,Armed forces members,39,23
+CAN,Canada,2019,Armed forces members,56,13
+CHN,China,2019,Armed forces members,72,11
+FRA,France,2019,Armed forces members,55,10
+GB,United Kingdom,2019,Armed forces members,52,12
+GER,Germany,2019,Armed forces members,24,27
+HUN,Hungary,2019,Armed forces members,39,16
+IND,India,2019,Armed forces members,70,11
+ITA,Italy,2019,Armed forces members,47,16
+JAP,Japan,2019,Armed forces members,35,14
+KOR,South Korea,2019,Armed forces members,18,31
+KSA,Saudi Arabia,2019,Armed forces members,NA,NA
+MEX,Mexico,2019,Armed forces members,40,30
+POL,Poland,2019,Armed forces members,35,27
+RSA,Russia,2019,Armed forces members,29,33
+RUS,Russia,2019,Armed forces members,55,9
+SPA,Spain,2019,Armed forces members,39,26
+SWE,Sweden,2019,Armed forces members,39,15
+TUR,Turkey,2019,Armed forces members,35,24
+USA,United States,2019,Armed forces members,60,11
+ARG,Argentina,2019,Doctors,68,9
+AUS,Australia,2019,Doctors,69,8
+BEL,Belgium,2019,Doctors,64,8
+BRA,Brazil,2019,Doctors,48,16
+CAN,Canada,2019,Doctors,63,12
+CHN,China,2019,Doctors,56,15
+FRA,France,2019,Doctors,62,10
+GB,United Kingdom,2019,Doctors,67,8
+GER,Germany,2019,Doctors,51,10
+HUN,Hungary,2019,Doctors,38,22
+IND,India,2019,Doctors,49,18
+ITA,Italy,2019,Doctors,60,10
+JAP,Japan,2019,Doctors,39,13
+KOR,South Korea,2019,Doctors,28,23
+KSA,Saudi Arabia,2019,Doctors,52,19
+MEX,Mexico,2019,Doctors,68,7
+POL,Poland,2019,Doctors,45,24
+RSA,Russia,2019,Doctors,64,10
+RUS,Russia,2019,Doctors,49,19
+SPA,Spain,2019,Doctors,69,10
+SWE,Sweden,2019,Doctors,56,12
+TUR,Turkey,2019,Doctors,61,17
+USA,United States,2019,Doctors,60,11
+ARG,Argentina,2019,Teachers,61,11
+AUS,Australia,2019,Teachers,60,9
+BEL,Belgium,2019,Teachers,51,11
+BRA,Brazil,2019,Teachers,57,14
+CAN,Canada,2019,Teachers,57,12
+CHN,China,2019,Teachers,62,14
+FRA,France,2019,Teachers,48,11
+GB,United Kingdom,2019,Teachers,58,10
+GER,Germany,2019,Teachers,39,11
+HUN,Hungary,2019,Teachers,48,12
+IND,India,2019,Teachers,63,12
+ITA,Italy,2019,Teachers,47,14
+JAP,Japan,2019,Teachers,18,26
+KOR,South Korea,2019,Teachers,27,20
+KSA,Saudi Arabia,2019,Teachers,48,17
+MEX,Mexico,2019,Teachers,58,12
+POL,Poland,2019,Teachers,44,17
+RSA,Russia,2019,Teachers,54,13
+RUS,Russia,2019,Teachers,72,7
+SPA,Spain,2019,Teachers,56,11
+SWE,Sweden,2019,Teachers,44,13
+TUR,Turkey,2019,Teachers,59,13
+USA,United States,2019,Teachers,61,9
+ARG,Argentina,2019,Ordinary men/women,47,9
+AUS,Australia,2019,Ordinary men/women,42,10
+BEL,Belgium,2019,Ordinary men/women,37,9
+BRA,Brazil,2019,Ordinary men/women,32,18
+CAN,Canada,2019,Ordinary men/women,37,13
+CHN,China,2019,Ordinary men/women,45,16
+FRA,France,2019,Ordinary men/women,35,10
+GB,United Kingdom,2019,Ordinary men/women,37,11
+GER,Germany,2019,Ordinary men/women,32,8
+HUN,Hungary,2019,Ordinary men/women,23,19
+IND,India,2019,Ordinary men/women,49,12
+ITA,Italy,2019,Ordinary men/women,35,15
+JAP,Japan,2019,Ordinary men/women,18,15
+KOR,South Korea,2019,Ordinary men/women,22,16
+KSA,Saudi Arabia,2019,Ordinary men/women,45,15
+MEX,Mexico,2019,Ordinary men/women,45,8
+POL,Poland,2019,Ordinary men/women,44,11
+RSA,Russia,2019,Ordinary men/women,33,16
+RUS,Russia,2019,Ordinary men/women,64,4
+SPA,Spain,2019,Ordinary men/women,43,10
+SWE,Sweden,2019,Ordinary men/women,26,21
+TUR,Turkey,2019,Ordinary men/women,26,23
+USA,United States,2019,Ordinary men/women,42,12
+ARG,Argentina,2019,Scientists,74,6
+AUS,Australia,2019,Scientists,62,8
+BEL,Belgium,2019,Scientists,56,11
+BRA,Brazil,2019,Scientists,53,15
+CAN,Canada,2019,Scientists,58,12
+CHN,China,2019,Scientists,63,14
+FRA,France,2019,Scientists,59,9
+GB,United Kingdom,2019,Scientists,62,7
+GER,Germany,2019,Scientists,52,8
+HUN,Hungary,2019,Scientists,58,11
+IND,India,2019,Scientists,67,12
+ITA,Italy,2019,Scientists,67,9
+JAP,Japan,2019,Scientists,40,11
+KOR,South Korea,2019,Scientists,42,17
+KSA,Saudi Arabia,2019,Scientists,53,15
+MEX,Mexico,2019,Scientists,72,8
+POL,Poland,2019,Scientists,59,10
+RSA,Russia,2019,Scientists,50,13
+RUS,Russia,2019,Scientists,76,12
+SPA,Spain,2019,Scientists,67,8
+SWE,Sweden,2019,Scientists,56,11
+TUR,Turkey,2019,Scientists,70,10
+USA,United States,2019,Scientists,55,9
+ARG,Argentina,2019,Television new readers,18,NA
+AUS,Australia,2019,Television new readers,22,NA
+BEL,Belgium,2019,Television new readers,30,NA
+BRA,Brazil,2019,Television new readers,18,NA
+CAN,Canada,2019,Television new readers,26,NA
+CHN,China,2019,Television new readers,50,NA
+FRA,France,2019,Television new readers,20,NA
+GB,United Kingdom,2019,Television new readers,30,NA
+GER,Germany,2019,Television new readers,35,NA
+HUN,Hungary,2019,Television new readers,14,NA
+IND,India,2019,Television new readers,29,NA
+ITA,Italy,2019,Television new readers,17,NA
+JAP,Japan,2019,Television new readers,17,NA
+KOR,South Korea,2019,Television new readers,17,NA
+KSA,Saudi Arabia,2019,Television new readers,35,NA
+MEX,Mexico,2019,Television new readers,17,NA
+POL,Poland,2019,Television new readers,22,NA
+RSA,Russia,2019,Television new readers,31,NA
+RUS,Russia,2019,Television new readers,15,NA
+SPA,Spain,2019,Television new readers,19,NA
+SWE,Sweden,2019,Television new readers,31,NA
+TUR,Turkey,2019,Television new readers,13,NA
+USA,United States,2019,Television new readers,18,NA
+ARG,Argentina,2019,Clergy/priests,17,NA
+AUS,Australia,2019,Clergy/priests,17,NA
+BEL,Belgium,2019,Clergy/priests,22,NA
+BRA,Brazil,2019,Clergy/priests,21,NA
+CAN,Canada,2019,Clergy/priests,29,NA
+CHN,China,2019,Clergy/priests,48,NA
+FRA,France,2019,Clergy/priests,19,NA
+GB,United Kingdom,2019,Clergy/priests,15,NA
+GER,Germany,2019,Clergy/priests,23,NA
+HUN,Hungary,2019,Clergy/priests,13,NA
+IND,India,2019,Clergy/priests,28,NA
+ITA,Italy,2019,Clergy/priests,19,NA
+JAP,Japan,2019,Clergy/priests,11,NA
+KOR,South Korea,2019,Clergy/priests,13,NA
+KSA,Saudi Arabia,2019,Clergy/priests,31,NA
+MEX,Mexico,2019,Clergy/priests,27,NA
+POL,Poland,2019,Clergy/priests,22,NA
+RSA,Russia,2019,Clergy/priests,23,NA
+RUS,Russia,2019,Clergy/priests,27,NA
+SPA,Spain,2019,Clergy/priests,15,NA
+SWE,Sweden,2019,Clergy/priests,16,NA
+TUR,Turkey,2019,Clergy/priests,12,NA
+USA,United States,2019,Clergy/priests,23,NA
+ARG,Argentina,2021,Politicians generally,3,76
+AUS,Australia,2021,Politicians generally,14,53
+BEL,Belgium,2021,Politicians generally,10,59
+BRA,Brazil,2021,Politicians generally,6,77
+CAN,Canada,2021,Politicians generally,13,54
+CHL,Chile,2021,Politicians generally,6,78
+CHN,China,2021,Politicians generally,NA,NA
+COL,Colombia,2021,Politicians generally,4,77
+FRA,France,2021,Politicians generally,11,54
+GB,United Kingdom,2021,Politicians generally,12,57
+GER,Germany,2021,Politicians generally,12,50
+HUN,Hungary,2021,Politicians generally,4,79
+IND,India,2021,Politicians generally,18,51
+ITA,Italy,2021,Politicians generally,9,67
+JAP,Japan,2021,Politicians generally,7,56
+KOR,South Korea,2021,Politicians generally,9,66
+KSA,Saudi Arabia,2021,Politicians generally,NA,NA
+MYS,Malaysia,2021,Politicians generally,19,53
+MEX,Mexico,2021,Politicians generally,9,66
+NLD,Netherlands,2021,Politicians generally,19,45
+PER,Peru,2021,Politicians generally,6,73
+POL,Poland,2021,Politicians generally,9,70
+RSA,Russia,2021,Politicians generally,10,75
+RUS,Russia,2021,Politicians generally,16,56
+SPA,Spain,2021,Politicians generally,8,68
+SWE,Sweden,2021,Politicians generally,17,49
+TUR,Turkey,2021,Politicians generally,11,61
+USA,United States,2021,Politicians generally,9,66
+ARG,Argentina,2021,Government ministers,6,69
+AUS,Australia,2021,Government ministers,18,48
+BEL,Belgium,2021,Government ministers,11,58
+BRA,Brazil,2021,Government ministers,11,65
+CAN,Canada,2021,Government ministers,17,43
+CHL,Chile,2021,Government ministers,9,67
+CHN,China,2021,Government ministers,NA,NA
+COL,Colombia,2021,Government ministers,5,73
+FRA,France,2021,Government ministers,10,54
+GB,United Kingdom,2021,Government ministers,15,49
+GER,Germany,2021,Government ministers,15,42
+HUN,Hungary,2021,Government ministers,11,72
+IND,India,2021,Government ministers,25,45
+ITA,Italy,2021,Government ministers,15,51
+JAP,Japan,2021,Government ministers,12,49
+KOR,South Korea,2021,Government ministers,9,51
+KSA,Saudi Arabia,2021,Government ministers,NA,NA
+MYS,Malaysia,2021,Government ministers,24,49
+MEX,Mexico,2021,Government ministers,13,52
+NLD,Netherlands,2021,Government ministers,20,40
+PER,Peru,2021,Government ministers,8,62
+POL,Poland,2021,Government ministers,14,61
+RSA,Russia,2021,Government ministers,11,71
+RUS,Russia,2021,Government ministers,18,54
+SPA,Spain,2021,Government ministers,9,58
+SWE,Sweden,2021,Government ministers,26,28
+TUR,Turkey,2021,Government ministers,25,46
+USA,United States,2021,Government ministers,18,41
+ARG,Argentina,2021,Advertising executives,13,32
+AUS,Australia,2021,Advertising executives,11,50
+BEL,Belgium,2021,Advertising executives,10,54
+BRA,Brazil,2021,Advertising executives,19,28
+CAN,Canada,2021,Advertising executives,9,45
+CHL,Chile,2021,Advertising executives,12,36
+CHN,China,2021,Advertising executives,24,33
+COL,Colombia,2021,Advertising executives,17,28
+FRA,France,2021,Advertising executives,10,48
+GB,United Kingdom,2021,Advertising executives,9,51
+GER,Germany,2021,Advertising executives,9,44
+HUN,Hungary,2021,Advertising executives,8,44
+IND,India,2021,Advertising executives,28,29
+ITA,Italy,2021,Advertising executives,15,37
+JAP,Japan,2021,Advertising executives,9,28
+KOR,South Korea,2021,Advertising executives,7,43
+KSA,Saudi Arabia,2021,Advertising executives,34,23
+MYS,Malaysia,2021,Advertising executives,26,27
+MEX,Mexico,2021,Advertising executives,19,24
+NLD,Netherlands,2021,Advertising executives,11,36
+PER,Peru,2021,Advertising executives,15,32
+POL,Poland,2021,Advertising executives,13,35
+RSA,Russia,2021,Advertising executives,22,32
+RUS,Russia,2021,Advertising executives,20,36
+SPA,Spain,2021,Advertising executives,10,41
+SWE,Sweden,2021,Advertising executives,12,42
+TUR,Turkey,2021,Advertising executives,16,34
+USA,United States,2021,Advertising executives,13,42
+ARG,Argentina,2021,Clergy/Priests,NA,54
+AUS,Australia,2021,Clergy/Priests,NA,39
+BEL,Belgium,2021,Clergy/Priests,NA,39
+BRA,Brazil,2021,Clergy/Priests,NA,31
+CAN,Canada,2021,Clergy/Priests,NA,29
+CHL,Chile,2021,Clergy/Priests,NA,67
+CHN,China,2021,Clergy/Priests,NA,NA
+COL,Colombia,2021,Clergy/Priests,NA,43
+FRA,France,2021,Clergy/Priests,NA,31
+GB,United Kingdom,2021,Clergy/Priests,NA,22
+GER,Germany,2021,Clergy/Priests,NA,35
+HUN,Hungary,2021,Clergy/Priests,NA,36
+IND,India,2021,Clergy/Priests,NA,26
+ITA,Italy,2021,Clergy/Priests,NA,46
+JAP,Japan,2021,Clergy/Priests,NA,21
+KOR,South Korea,2021,Clergy/Priests,NA,27
+KSA,Saudi Arabia,2021,Clergy/Priests,NA,NA
+MYS,Malaysia,2021,Clergy/Priests,NA,29
+MEX,Mexico,2021,Clergy/Priests,NA,44
+NLD,Netherlands,2021,Clergy/Priests,NA,34
+PER,Peru,2021,Clergy/Priests,NA,34
+POL,Poland,2021,Clergy/Priests,NA,54
+RSA,Russia,2021,Clergy/Priests,NA,28
+RUS,Russia,2021,Clergy/Priests,NA,38
+SPA,Spain,2021,Clergy/Priests,NA,57
+SWE,Sweden,2021,Clergy/Priests,NA,18
+TUR,Turkey,2021,Clergy/Priests,NA,37
+USA,United States,2021,Clergy/Priests,NA,19
+ARG,Argentina,2021,Journalists,19,39
+AUS,Australia,2021,Journalists,21,40
+BEL,Belgium,2021,Journalists,21,36
+BRA,Brazil,2021,Journalists,34,30
+CAN,Canada,2021,Journalists,26,30
+CHL,Chile,2021,Journalists,18,36
+CHN,China,2021,Journalists,45,19
+COL,Colombia,2021,Journalists,17,42
+FRA,France,2021,Journalists,16,39
+GB,United Kingdom,2021,Journalists,13,48
+GER,Germany,2021,Journalists,21,30
+HUN,Hungary,2021,Journalists,11,46
+IND,India,2021,Journalists,31,32
+ITA,Italy,2021,Journalists,18,42
+JAP,Japan,2021,Journalists,17,32
+KOR,South Korea,2021,Journalists,15,34
+KSA,Saudi Arabia,2021,Journalists,36,18
+MYS,Malaysia,2021,Journalists,32,29
+MEX,Mexico,2021,Journalists,27,29
+NLD,Netherlands,2021,Journalists,30,25
+PER,Peru,2021,Journalists,17,41
+POL,Poland,2021,Journalists,25,28
+RSA,Russia,2021,Journalists,28,32
+RUS,Russia,2021,Journalists,27,36
+SPA,Spain,2021,Journalists,16,41
+SWE,Sweden,2021,Journalists,24,37
+TUR,Turkey,2021,Journalists,21,31
+USA,United States,2021,Journalists,26,41
+ARG,Argentina,2021,Bankers,15,40
+AUS,Australia,2021,Bankers,20,35
+BEL,Belgium,2021,Bankers,14,40
+BRA,Brazil,2021,Bankers,14,47
+CAN,Canada,2021,Bankers,29,25
+CHL,Chile,2021,Bankers,15,42
+CHN,China,2021,Bankers,36,22
+COL,Colombia,2021,Bankers,11,48
+FRA,France,2021,Bankers,16,41
+GB,United Kingdom,2021,Bankers,18,41
+GER,Germany,2021,Bankers,14,37
+HUN,Hungary,2021,Bankers,14,48
+IND,India,2021,Bankers,44,16
+ITA,Italy,2021,Bankers,18,33
+JAP,Japan,2021,Bankers,19,23
+KOR,South Korea,2021,Bankers,28,19
+KSA,Saudi Arabia,2021,Bankers,46,11
+MYS,Malaysia,2021,Bankers,47,14
+MEX,Mexico,2021,Bankers,16,32
+NLD,Netherlands,2021,Bankers,13,43
+PER,Peru,2021,Bankers,16,39
+POL,Poland,2021,Bankers,20,42
+RSA,Russia,2021,Bankers,35,22
+RUS,Russia,2021,Bankers,20,45
+SPA,Spain,2021,Bankers,7,60
+SWE,Sweden,2021,Bankers,27,24
+TUR,Turkey,2021,Bankers,25,32
+USA,United States,2021,Bankers,38,21
+ARG,Argentina,2021,Civil servants,7,66
+AUS,Australia,2021,Civil servants,31,17
+BEL,Belgium,2021,Civil servants,28,24
+BRA,Brazil,2021,Civil servants,27,26
+CAN,Canada,2021,Civil servants,26,18
+CHL,Chile,2021,Civil servants,15,45
+CHN,China,2021,Civil servants,NA,NA
+COL,Colombia,2021,Civil servants,7,59
+FRA,France,2021,Civil servants,32,15
+GB,United Kingdom,2021,Civil servants,27,19
+GER,Germany,2021,Civil servants,22,23
+HUN,Hungary,2021,Civil servants,24,28
+IND,India,2021,Civil servants,41,22
+ITA,Italy,2021,Civil servants,22,30
+JAP,Japan,2021,Civil servants,21,21
+KOR,South Korea,2021,Civil servants,15,35
+KSA,Saudi Arabia,2021,Civil servants,46,13
+MYS,Malaysia,2021,Civil servants,36,19
+MEX,Mexico,2021,Civil servants,10,56
+NLD,Netherlands,2021,Civil servants,24,25
+PER,Peru,2021,Civil servants,10,58
+POL,Poland,2021,Civil servants,16,48
+RSA,Russia,2021,Civil servants,23,30
+RUS,Russia,2021,Civil servants,22,39
+SPA,Spain,2021,Civil servants,19,24
+SWE,Sweden,2021,Civil servants,28,15
+TUR,Turkey,2021,Civil servants,32,15
+USA,United States,2021,Civil servants,27,26
+ARG,Argentina,2021,The police,24,35
+AUS,Australia,2021,The police,52,18
+BEL,Belgium,2021,The police,37,21
+BRA,Brazil,2021,The police,30,31
+CAN,Canada,2021,The police,44,23
+CHL,Chile,2021,The police,24,48
+CHN,China,2021,The police,NA,NA
+COL,Colombia,2021,The police,16,52
+FRA,France,2021,The police,48,16
+GB,United Kingdom,2021,The police,48,20
+GER,Germany,2021,The police,47,14
+HUN,Hungary,2021,The police,35,24
+IND,India,2021,The police,37,27
+ITA,Italy,2021,The police,47,17
+JAP,Japan,2021,The police,38,14
+KOR,South Korea,2021,The police,22,35
+KSA,Saudi Arabia,2021,The police,NA,NA
+MYS,Malaysia,2021,The police,40,27
+MEX,Mexico,2021,The police,15,48
+NLD,Netherlands,2021,The police,53,14
+PER,Peru,2021,The police,22,37
+POL,Poland,2021,The police,29,43
+RSA,Russia,2021,The police,13,55
+RUS,Russia,2021,The police,29,38
+SPA,Spain,2021,The police,47,18
+SWE,Sweden,2021,The police,60,16
+TUR,Turkey,2021,The police,52,17
+USA,United States,2021,The police,53,20
+ARG,Argentina,2021,Television news readers,17,39
+AUS,Australia,2021,Television news readers,28,25
+BEL,Belgium,2021,Television news readers,31,26
+BRA,Brazil,2021,Television news readers,26,33
+CAN,Canada,2021,Television news readers,26,24
+CHL,Chile,2021,Television news readers,20,37
+CHN,China,2021,Television news readers,39,17
+COL,Colombia,2021,Television news readers,14,49
+FRA,France,2021,Television news readers,18,31
+GB,United Kingdom,2021,Television news readers,31,18
+GER,Germany,2021,Television news readers,35,20
+HUN,Hungary,2021,Television news readers,13,40
+IND,India,2021,Television news readers,31,32
+ITA,Italy,2021,Television news readers,18,43
+JAP,Japan,2021,Television news readers,23,16
+KOR,South Korea,2021,Television news readers,21,27
+KSA,Saudi Arabia,2021,Television news readers,43,17
+MYS,Malaysia,2021,Television news readers,42,17
+MEX,Mexico,2021,Television news readers,20,38
+NLD,Netherlands,2021,Television news readers,35,19
+PER,Peru,2021,Television news readers,15,44
+POL,Poland,2021,Television news readers,21,38
+RSA,Russia,2021,Television news readers,38,19
+RUS,Russia,2021,Television news readers,25,43
+SPA,Spain,2021,Television news readers,22,30
+SWE,Sweden,2021,Television news readers,41,19
+TUR,Turkey,2021,Television news readers,27,26
+USA,United States,2021,Television news readers,24,39
+ARG,Argentina,2021,Judges,10,61
+AUS,Australia,2021,Judges,45,19
+BEL,Belgium,2021,Judges,38,22
+BRA,Brazil,2021,Judges,26,32
+CAN,Canada,2021,Judges,49,13
+CHL,Chile,2021,Judges,15,52
+CHN,China,2021,Judges,NA,NA
+COL,Colombia,2021,Judges,11,52
+FRA,France,2021,Judges,38,23
+GB,United Kingdom,2021,Judges,48,13
+GER,Germany,2021,Judges,45,14
+HUN,Hungary,2021,Judges,29,31
+IND,India,2021,Judges,47,20
+ITA,Italy,2021,Judges,33,29
+JAP,Japan,2021,Judges,41,12
+KOR,South Korea,2021,Judges,23,36
+KSA,Saudi Arabia,2021,Judges,NA,NA
+MYS,Malaysia,2021,Judges,49,18
+MEX,Mexico,2021,Judges,19,32
+NLD,Netherlands,2021,Judges,56,13
+PER,Peru,2021,Judges,11,58
+POL,Poland,2021,Judges,33,32
+RSA,Russia,2021,Judges,36,25
+RUS,Russia,2021,Judges,28,40
+SPA,Spain,2021,Judges,32,24
+SWE,Sweden,2021,Judges,51,16
+TUR,Turkey,2021,Judges,33,29
+USA,United States,2021,Judges,45,16
+ARG,Argentina,2021,Business leaders,18,34
+AUS,Australia,2021,Business leaders,21,30
+BEL,Belgium,2021,Business leaders,20,26
+BRA,Brazil,2021,Business leaders,23,24
+CAN,Canada,2021,Business leaders,17,28
+CHL,Chile,2021,Business leaders,15,50
+CHN,China,2021,Business leaders,44,23
+COL,Colombia,2021,Business leaders,22,27
+FRA,France,2021,Business leaders,26,19
+GB,United Kingdom,2021,Business leaders,16,33
+GER,Germany,2021,Business leaders,15,24
+HUN,Hungary,2021,Business leaders,16,30
+IND,India,2021,Business leaders,34,22
+ITA,Italy,2021,Business leaders,24,25
+JAP,Japan,2021,Business leaders,16,19
+KOR,South Korea,2021,Business leaders,14,34
+KSA,Saudi Arabia,2021,Business leaders,49,11
+MYS,Malaysia,2021,Business leaders,32,23
+MEX,Mexico,2021,Business leaders,26,24
+NLD,Netherlands,2021,Business leaders,22,18
+PER,Peru,2021,Business leaders,24,25
+POL,Poland,2021,Business leaders,20,29
+RSA,Russia,2021,Business leaders,28,24
+RUS,Russia,2021,Business leaders,24,39
+SPA,Spain,2021,Business leaders,14,40
+SWE,Sweden,2021,Business leaders,19,29
+TUR,Turkey,2021,Business leaders,18,37
+USA,United States,2021,Business leaders,25,27
+ARG,Argentina,2021,Lawyers,17,37
+AUS,Australia,2021,Lawyers,28,32
+BEL,Belgium,2021,Lawyers,27,33
+BRA,Brazil,2021,Lawyers,22,33
+CAN,Canada,2021,Lawyers,23,30
+CHL,Chile,2021,Lawyers,22,37
+CHN,China,2021,Lawyers,53,18
+COL,Colombia,2021,Lawyers,14,39
+FRA,France,2021,Lawyers,33,22
+GB,United Kingdom,2021,Lawyers,32,26
+GER,Germany,2021,Lawyers,31,19
+HUN,Hungary,2021,Lawyers,22,36
+IND,India,2021,Lawyers,33,27
+ITA,Italy,2021,Lawyers,25,32
+JAP,Japan,2021,Lawyers,35,14
+KOR,South Korea,2021,Lawyers,22,27
+KSA,Saudi Arabia,2021,Lawyers,42,11
+MYS,Malaysia,2021,Lawyers,40,24
+MEX,Mexico,2021,Lawyers,17,32
+NLD,Netherlands,2021,Lawyers,35,20
+PER,Peru,2021,Lawyers,16,43
+POL,Poland,2021,Lawyers,38,24
+RSA,Russia,2021,Lawyers,27,33
+RUS,Russia,2021,Lawyers,35,22
+SPA,Spain,2021,Lawyers,27,24
+SWE,Sweden,2021,Lawyers,41,19
+TUR,Turkey,2021,Lawyers,26,25
+USA,United States,2021,Lawyers,22,34
+ARG,Argentina,2021,Pollsters,26,21
+AUS,Australia,2021,Pollsters,11,31
+BEL,Belgium,2021,Pollsters,25,22
+BRA,Brazil,2021,Pollsters,33,22
+CAN,Canada,2021,Pollsters,17,20
+CHL,Chile,2021,Pollsters,24,20
+CHN,China,2021,Pollsters,NA,NA
+COL,Colombia,2021,Pollsters,28,22
+FRA,France,2021,Pollsters,36,15
+GB,United Kingdom,2021,Pollsters,11,29
+GER,Germany,2021,Pollsters,26,18
+HUN,Hungary,2021,Pollsters,19,25
+IND,India,2021,Pollsters,23,24
+ITA,Italy,2021,Pollsters,29,20
+JAP,Japan,2021,Pollsters,15,22
+KOR,South Korea,2021,Pollsters,16,29
+KSA,Saudi Arabia,2021,Pollsters,46,13
+MYS,Malaysia,2021,Pollsters,37,18
+MEX,Mexico,2021,Pollsters,34,15
+NLD,Netherlands,2021,Pollsters,21,22
+PER,Peru,2021,Pollsters,26,34
+POL,Poland,2021,Pollsters,30,21
+RSA,Russia,2021,Pollsters,17,23
+RUS,Russia,2021,Pollsters,44,17
+SPA,Spain,2021,Pollsters,19,19
+SWE,Sweden,2021,Pollsters,25,18
+TUR,Turkey,2021,Pollsters,34,20
+USA,United States,2021,Pollsters,15,33
+ARG,Argentina,2021,Armed forces members,34,24
+AUS,Australia,2021,Armed forces members,53,14
+BEL,Belgium,2021,Armed forces members,38,14
+BRA,Brazil,2021,Armed forces members,35,26
+CAN,Canada,2021,Armed forces members,45,12
+CHL,Chile,2021,Armed forces members,21,45
+CHN,China,2021,Armed forces members,NA,NA
+COL,Colombia,2021,Armed forces members,20,44
+FRA,France,2021,Armed forces members,52,10
+GB,United Kingdom,2021,Armed forces members,55,11
+GER,Germany,2021,Armed forces members,27,19
+HUN,Hungary,2021,Armed forces members,43,20
+IND,India,2021,Armed forces members,64,15
+ITA,Italy,2021,Armed forces members,45,19
+JAP,Japan,2021,Armed forces members,39,10
+KOR,South Korea,2021,Armed forces members,25,22
+KSA,Saudi Arabia,2021,Armed forces members,NA,NA
+MYS,Malaysia,2021,Armed forces members,52,15
+MEX,Mexico,2021,Armed forces members,37,21
+NLD,Netherlands,2021,Armed forces members,44,10
+PER,Peru,2021,Armed forces members,37,21
+POL,Poland,2021,Armed forces members,39,20
+RSA,Russia,2021,Armed forces members,29,28
+RUS,Russia,2021,Armed forces members,59,16
+SPA,Spain,2021,Armed forces members,47,19
+SWE,Sweden,2021,Armed forces members,47,14
+TUR,Turkey,2021,Armed forces members,46,13
+USA,United States,2021,Armed forces members,64,10
+ARG,Argentina,2021,Teachers,56,9
+AUS,Australia,2021,Teachers,59,11
+BEL,Belgium,2021,Teachers,54,10
+BRA,Brazil,2021,Teachers,68,8
+CAN,Canada,2021,Teachers,62,9
+CHL,Chile,2021,Teachers,68,6
+CHN,China,2021,Teachers,65,12
+COL,Colombia,2021,Teachers,54,11
+FRA,France,2021,Teachers,51,12
+GB,United Kingdom,2021,Teachers,62,10
+GER,Germany,2021,Teachers,40,11
+HUN,Hungary,2021,Teachers,54,13
+IND,India,2021,Teachers,61,13
+ITA,Italy,2021,Teachers,51,12
+JAP,Japan,2021,Teachers,22,22
+KOR,South Korea,2021,Teachers,33,19
+KSA,Saudi Arabia,2021,Teachers,65,14
+MYS,Malaysia,2021,Teachers,65,9
+MEX,Mexico,2021,Teachers,53,7
+NLD,Netherlands,2021,Teachers,61,8
+PER,Peru,2021,Teachers,43,13
+POL,Poland,2021,Teachers,44,17
+RSA,Russia,2021,Teachers,56,12
+RUS,Russia,2021,Teachers,67,9
+SPA,Spain,2021,Teachers,59,8
+SWE,Sweden,2021,Teachers,55,13
+TUR,Turkey,2021,Teachers,61,10
+USA,United States,2021,Teachers,57,13
+ARG,Argentina,2021,Ordinary men/women,39,7
+AUS,Australia,2021,Ordinary men/women,42,11
+BEL,Belgium,2021,Ordinary men/women,36,9
+BRA,Brazil,2021,Ordinary men/women,35,14
+CAN,Canada,2021,Ordinary men/women,42,8
+CHL,Chile,2021,Ordinary men/women,41,11
+CHN,China,2021,Ordinary men/women,39,15
+COL,Colombia,2021,Ordinary men/women,35,11
+FRA,France,2021,Ordinary men/women,39,8
+GB,United Kingdom,2021,Ordinary men/women,39,9
+GER,Germany,2021,Ordinary men/women,35,6
+HUN,Hungary,2021,Ordinary men/women,25,16
+IND,India,2021,Ordinary men/women,46,14
+ITA,Italy,2021,Ordinary men/women,35,12
+JAP,Japan,2021,Ordinary men/women,25,10
+KOR,South Korea,2021,Ordinary men/women,20,16
+KSA,Saudi Arabia,2021,Ordinary men/women,49,10
+MYS,Malaysia,2021,Ordinary men/women,41,12
+MEX,Mexico,2021,Ordinary men/women,43,8
+NLD,Netherlands,2021,Ordinary men/women,35,11
+PER,Peru,2021,Ordinary men/women,33,11
+POL,Poland,2021,Ordinary men/women,52,11
+RSA,Russia,2021,Ordinary men/women,33,14
+RUS,Russia,2021,Ordinary men/women,67,4
+SPA,Spain,2021,Ordinary men/women,34,7
+SWE,Sweden,2021,Ordinary men/women,28,18
+TUR,Turkey,2021,Ordinary men/women,30,14
+USA,United States,2021,Ordinary men/women,47,10
+ARG,Argentina,2021,Scientists,63,7
+AUS,Australia,2021,Scientists,61,10
+BEL,Belgium,2021,Scientists,56,12
+BRA,Brazil,2021,Scientists,68,9
+CAN,Canada,2021,Scientists,64,7
+CHL,Chile,2021,Scientists,67,5
+CHN,China,2021,Scientists,72,12
+COL,Colombia,2021,Scientists,58,6
+FRA,France,2021,Scientists,56,10
+GB,United Kingdom,2021,Scientists,66,8
+GER,Germany,2021,Scientists,51,8
+HUN,Hungary,2021,Scientists,66,11
+IND,India,2021,Scientists,64,13
+ITA,Italy,2021,Scientists,68,10
+JAP,Japan,2021,Scientists,43,8
+KOR,South Korea,2021,Scientists,48,16
+KSA,Saudi Arabia,2021,Scientists,63,13
+MYS,Malaysia,2021,Scientists,57,11
+MEX,Mexico,2021,Scientists,60,9
+NLD,Netherlands,2021,Scientists,60,11
+PER,Peru,2021,Scientists,53,9
+POL,Poland,2021,Scientists,61,12
+RSA,Russia,2021,Scientists,50,15
+RUS,Russia,2021,Scientists,75,7
+SPA,Spain,2021,Scientists,71,5
+SWE,Sweden,2021,Scientists,57,11
+TUR,Turkey,2021,Scientists,64,13
+USA,United States,2021,Scientists,62,12
+ARG,Argentina,2021,Doctors,69,5
+AUS,Australia,2021,Doctors,67,11
+BEL,Belgium,2021,Doctors,66,10
+BRA,Brazil,2021,Doctors,66,9
+CAN,Canada,2021,Doctors,70,8
+CHL,Chile,2021,Doctors,68,7
+CHN,China,2021,Doctors,66,16
+COL,Colombia,2021,Doctors,58,10
+FRA,France,2021,Doctors,64,8
+GB,United Kingdom,2021,Doctors,72,9
+GER,Germany,2021,Doctors,60,6
+HUN,Hungary,2021,Doctors,61,13
+IND,India,2021,Doctors,58,14
+ITA,Italy,2021,Doctors,65,11
+JAP,Japan,2021,Doctors,52,9
+KOR,South Korea,2021,Doctors,38,19
+KSA,Saudi Arabia,2021,Doctors,67,12
+MYS,Malaysia,2021,Doctors,68,9
+MEX,Mexico,2021,Doctors,66,7
+NLD,Netherlands,2021,Doctors,71,8
+PER,Peru,2021,Doctors,58,10
+POL,Poland,2021,Doctors,55,16
+RSA,Russia,2021,Doctors,65,10
+RUS,Russia,2021,Doctors,67,9
+SPA,Spain,2021,Doctors,68,7
+SWE,Sweden,2021,Doctors,62,10
+TUR,Turkey,2021,Doctors,69,8
+USA,United States,2021,Doctors,69,10
+ARG,Argentina,2021,Clergy/Priest,13,NA
+AUS,Australia,2021,Clergy/Priest,26,NA
+BEL,Belgium,2021,Clergy/Priest,17,NA
+BRA,Brazil,2021,Clergy/Priest,25,NA
+CAN,Canada,2021,Clergy/Priest,29,NA
+CHL,Chile,2021,Clergy/Priest,9,NA
+CHN,China,2021,Clergy/Priest,NA,NA
+COL,Colombia,2021,Clergy/Priest,19,NA
+FRA,France,2021,Clergy/Priest,22,NA
+GB,United Kingdom,2021,Clergy/Priest,33,NA
+GER,Germany,2021,Clergy/Priest,22,NA
+HUN,Hungary,2021,Clergy/Priest,27,NA
+IND,India,2021,Clergy/Priest,32,NA
+ITA,Italy,2021,Clergy/Priest,19,NA
+JAP,Japan,2021,Clergy/Priest,24,NA
+KOR,South Korea,2021,Clergy/Priest,37,NA
+KSA,Saudi Arabia,2021,Clergy/Priest,NA,NA
+MYS,Malaysia,2021,Clergy/Priest,29,NA
+MEX,Mexico,2021,Clergy/Priest,18,NA
+NLD,Netherlands,2021,Clergy/Priest,22,NA
+PER,Peru,2021,Clergy/Priest,28,NA
+POL,Poland,2021,Clergy/Priest,20,NA
+RSA,Russia,2021,Clergy/Priest,30,NA
+RUS,Russia,2021,Clergy/Priest,33,NA
+SPA,Spain,2021,Clergy/Priest,10,NA
+SWE,Sweden,2021,Clergy/Priest,40,NA
+TUR,Turkey,2021,Clergy/Priest,19,NA
+USA,United States,2021,Clergy/Priest,45,NA
+ARG,Argentina,2022,Politicians generally,8,82
+AUS,Australia,2022,Politicians generally,12,58
+BEL,Belgium,2022,Politicians generally,12,55
+BRA,Brazil,2022,Politicians generally,9,76
+CAN,Canada,2022,Politicians generally,14,56
+CHL,Chile,2022,Politicians generally,7,79
+CHN,China,2022,Politicians generally,NA,NA
+COL,Colombia,2022,Politicians generally,9,75
+DEU,Germany,2022,Politicians generally,18,48
+DNK,Denmark,2022,Politicians generally,21,43
+ESP,Spain,2022,Politicians generally,8,76
+FRA,France,2022,Politicians generally,14,57
+GBR,United Kingdom,2022,Politicians generally,16,60
+HUN,Hungary,2022,Politicians generally,7,76
+IND,India,2022,Politicians generally,28,50
+ITA,Italy,2022,Politicians generally,11,63
+JAP,Japan,2022,Politicians generally,7,56
+KOR,South Korea,2022,Politicians generally,9,69
+MEX,Mexico,2022,Politicians generally,9,69
+MYS,Malaysia,2022,Politicians generally,17,52
+NDL,Netherlands,2022,Politicians generally,13,47
+PER,Peru,2022,Politicians generally,7,83
+POL,Poland,2022,Politicians generally,7,74
+KSA,Saudi Arabia,2022,Politicians generally,NA,NA
+SWE,Sweden,2022,Politicians generally,15,52
+TUR,Turkey,2022,Politicians generally,14,68
+USA,United States,2022,Politicians generally,10,66
+RSA,Russia,2022,Politicians generally,10,76
+ARG,Argentina,2022,Government ministers,7,74
+AUS,Australia,2022,Government ministers,16,50
+BEL,Belgium,2022,Government ministers,14,54
+BRA,Brazil,2022,Government ministers,13,64
+CAN,Canada,2022,Government ministers,19,46
+CHL,Chile,2022,Government ministers,14,62
+CHN,China,2022,Government ministers,NA,NA
+COL,Colombia,2022,Government ministers,12,65
+DEU,Germany,2022,Government ministers,23,42
+DNK,Denmark,2022,Government ministers,28,28
+ESP,Spain,2022,Government ministers,11,66
+FRA,France,2022,Government ministers,16,55
+GBR,United Kingdom,2022,Government ministers,17,57
+HUN,Hungary,2022,Government ministers,9,71
+IND,India,2022,Government ministers,31,43
+ITA,Italy,2022,Government ministers,14,52
+JAP,Japan,2022,Government ministers,10,48
+KOR,South Korea,2022,Government ministers,17,50
+MEX,Mexico,2022,Government ministers,15,59
+MYS,Malaysia,2022,Government ministers,20,49
+NDL,Netherlands,2022,Government ministers,17,43
+PER,Peru,2022,Government ministers,10,76
+POL,Poland,2022,Government ministers,13,68
+KSA,Saudi Arabia,2022,Government ministers,NA,NA
+SWE,Sweden,2022,Government ministers,26,29
+TUR,Turkey,2022,Government ministers,18,56
+USA,United States,2022,Government ministers,15,49
+RSA,Russia,2022,Government ministers,11,73
+ARG,Argentina,2022,Advertising executives,17,40
+AUS,Australia,2022,Advertising executives,12,51
+BEL,Belgium,2022,Advertising executives,14,58
+BRA,Brazil,2022,Advertising executives,18,39
+CAN,Canada,2022,Advertising executives,15,44
+CHL,Chile,2022,Advertising executives,17,44
+CHN,China,2022,Advertising executives,30,38
+COL,Colombia,2022,Advertising executives,25,36
+DEU,Germany,2022,Advertising executives,18,49
+DNK,Denmark,2022,Advertising executives,15,42
+ESP,Spain,2022,Advertising executives,13,51
+FRA,France,2022,Advertising executives,13,56
+GBR,United Kingdom,2022,Advertising executives,16,45
+HUN,Hungary,2022,Advertising executives,8,52
+IND,India,2022,Advertising executives,35,32
+ITA,Italy,2022,Advertising executives,16,43
+JAP,Japan,2022,Advertising executives,9,31
+KOR,South Korea,2022,Advertising executives,10,52
+MEX,Mexico,2022,Advertising executives,22,36
+MYS,Malaysia,2022,Advertising executives,21,31
+NDL,Netherlands,2022,Advertising executives,11,43
+PER,Peru,2022,Advertising executives,18,42
+POL,Poland,2022,Advertising executives,11,52
+KSA,Saudi Arabia,2022,Advertising executives,40,29
+SWE,Sweden,2022,Advertising executives,14,49
+TUR,Turkey,2022,Advertising executives,18,48
+USA,United States,2022,Advertising executives,13,48
+RSA,Russia,2022,Advertising executives,24,38
+ARG,Argentina,2022,Clergy/Priests,16,60
+AUS,Australia,2022,Clergy/Priests,27,36
+BEL,Belgium,2022,Clergy/Priests,18,40
+BRA,Brazil,2022,Clergy/Priests,30,37
+CAN,Canada,2022,Clergy/Priests,27,35
+CHL,Chile,2022,Clergy/Priests,14,64
+CHN,China,2022,Clergy/Priests,NA,NA
+COL,Colombia,2022,Clergy/Priests,25,46
+DEU,Germany,2022,Clergy/Priests,27,36
+DNK,Denmark,2022,Clergy/Priests,46,19
+ESP,Spain,2022,Clergy/Priests,15,59
+FRA,France,2022,Clergy/Priests,24,40
+GBR,United Kingdom,2022,Clergy/Priests,33,29
+HUN,Hungary,2022,Clergy/Priests,21,48
+IND,India,2022,Clergy/Priests,40,29
+ITA,Italy,2022,Clergy/Priests,21,48
+JAP,Japan,2022,Clergy/Priests,18,30
+KOR,South Korea,2022,Clergy/Priests,36,28
+MEX,Mexico,2022,Clergy/Priests,25,48
+MYS,Malaysia,2022,Clergy/Priests,25,32
+NDL,Netherlands,2022,Clergy/Priests,24,34
+PER,Peru,2022,Clergy/Priests,28,40
+POL,Poland,2022,Clergy/Priests,16,60
+KSA,Saudi Arabia,2022,Clergy/Priests,NA,NA
+SWE,Sweden,2022,Clergy/Priests,41,24
+TUR,Turkey,2022,Clergy/Priests,16,47
+USA,United States,2022,Clergy/Priests,37,28
+RSA,Russia,2022,Clergy/Priests,31,34
+ARG,Argentina,2022,Journalists,18,46
+AUS,Australia,2022,Journalists,21,41
+BEL,Belgium,2022,Journalists,21,38
+BRA,Brazil,2022,Journalists,34,34
+CAN,Canada,2022,Journalists,28,30
+CHL,Chile,2022,Journalists,25,44
+CHN,China,2022,Journalists,45,20
+COL,Colombia,2022,Journalists,23,44
+DEU,Germany,2022,Journalists,29,32
+DNK,Denmark,2022,Journalists,24,36
+ESP,Spain,2022,Journalists,17,46
+FRA,France,2022,Journalists,27,36
+GBR,United Kingdom,2022,Journalists,20,42
+HUN,Hungary,2022,Journalists,9,58
+IND,India,2022,Journalists,38,35
+ITA,Italy,2022,Journalists,18,44
+JAP,Japan,2022,Journalists,16,36
+KOR,South Korea,2022,Journalists,15,43
+MEX,Mexico,2022,Journalists,33,30
+MYS,Malaysia,2022,Journalists,28,27
+NDL,Netherlands,2022,Journalists,34,22
+PER,Peru,2022,Journalists,23,47
+POL,Poland,2022,Journalists,24,40
+KSA,Saudi Arabia,2022,Journalists,44,27
+SWE,Sweden,2022,Journalists,27,37
+TUR,Turkey,2022,Journalists,16,50
+USA,United States,2022,Journalists,24,37
+RSA,Russia,2022,Journalists,29,38
+ARG,Argentina,2022,Bankers,15,46
+AUS,Australia,2022,Bankers,20,38
+BEL,Belgium,2022,Bankers,18,43
+BRA,Brazil,2022,Bankers,14,53
+CAN,Canada,2022,Bankers,30,26
+CHL,Chile,2022,Bankers,16,49
+CHN,China,2022,Bankers,41,24
+COL,Colombia,2022,Bankers,18,53
+DEU,Germany,2022,Bankers,25,37
+DNK,Denmark,2022,Bankers,29,26
+ESP,Spain,2022,Bankers,11,64
+FRA,France,2022,Bankers,18,45
+GBR,United Kingdom,2022,Bankers,23,40
+HUN,Hungary,2022,Bankers,12,55
+IND,India,2022,Bankers,52,22
+ITA,Italy,2022,Bankers,17,40
+JAP,Japan,2022,Bankers,16,30
+KOR,South Korea,2022,Bankers,29,20
+MEX,Mexico,2022,Bankers,20,45
+MYS,Malaysia,2022,Bankers,42,17
+NDL,Netherlands,2022,Bankers,16,42
+PER,Peru,2022,Bankers,16,49
+POL,Poland,2022,Bankers,11,54
+KSA,Saudi Arabia,2022,Bankers,51,23
+SWE,Sweden,2022,Bankers,30,26
+TUR,Turkey,2022,Bankers,22,45
+USA,United States,2022,Bankers,27,29
+RSA,Russia,2022,Bankers,32,29
+ARG,Argentina,2022,Civil servants,10,73
+AUS,Australia,2022,Civil servants,29,21
+BEL,Belgium,2022,Civil servants,23,24
+BRA,Brazil,2022,Civil servants,24,37
+CAN,Canada,2022,Civil servants,32,20
+CHL,Chile,2022,Civil servants,16,49
+CHN,China,2022,Civil servants,NA,NA
+COL,Colombia,2022,Civil servants,14,59
+DEU,Germany,2022,Civil servants,29,26
+DNK,Denmark,2022,Civil servants,37,22
+ESP,Spain,2022,Civil servants,24,33
+FRA,France,2022,Civil servants,37,20
+GBR,United Kingdom,2022,Civil servants,31,25
+HUN,Hungary,2022,Civil servants,20,34
+IND,India,2022,Civil servants,46,27
+ITA,Italy,2022,Civil servants,20,34
+JAP,Japan,2022,Civil servants,17,27
+KOR,South Korea,2022,Civil servants,19,33
+MEX,Mexico,2022,Civil servants,11,64
+MYS,Malaysia,2022,Civil servants,31,27
+NDL,Netherlands,2022,Civil servants,23,28
+PER,Peru,2022,Civil servants,7,72
+POL,Poland,2022,Civil servants,11,59
+KSA,Saudi Arabia,2022,Civil servants,49,21
+SWE,Sweden,2022,Civil servants,28,20
+TUR,Turkey,2022,Civil servants,31,28
+USA,United States,2022,Civil servants,22,39
+RSA,Russia,2022,Civil servants,31,NA
+ARG,Argentina,2022,Television news readers,19,48
+AUS,Australia,2022,Television news readers,27,30
+BEL,Belgium,2022,Television news readers,30,27
+BRA,Brazil,2022,Television news readers,28,36
+CAN,Canada,2022,Television news readers,30,27
+CHL,Chile,2022,Television news readers,19,49
+CHN,China,2022,Television news readers,47,16
+COL,Colombia,2022,Television news readers,18,53
+DEU,Germany,2022,Television news readers,39,24
+DNK,Denmark,2022,Television news readers,34,25
+ESP,Spain,2022,Television news readers,20,40
+FRA,France,2022,Television news readers,24,36
+GBR,United Kingdom,2022,Television news readers,37,20
+HUN,Hungary,2022,Television news readers,15,48
+IND,India,2022,Television news readers,37,34
+ITA,Italy,2022,Television news readers,19,42
+JAP,Japan,2022,Television news readers,19,25
+KOR,South Korea,2022,Television news readers,21,30
+MEX,Mexico,2022,Television news readers,17,47
+MYS,Malaysia,2022,Television news readers,36,19
+NDL,Netherlands,2022,Television news readers,37,20
+PER,Peru,2022,Television news readers,20,50
+POL,Poland,2022,Television news readers,15,48
+KSA,Saudi Arabia,2022,Television news readers,49,24
+SWE,Sweden,2022,Television news readers,40,47
+TUR,Turkey,2022,Television news readers,20,37
+USA,United States,2022,Television news readers,24,30
+RSA,Russia,2022,Television news readers,37,NA
+ARG,Argentina,2022,Business leaders,19,43
+AUS,Australia,2022,Business leaders,19,36
+BEL,Belgium,2022,Business leaders,15,31
+BRA,Brazil,2022,Business leaders,20,38
+CAN,Canada,2022,Business leaders,21,31
+CHL,Chile,2022,Business leaders,14,55
+CHN,China,2022,Business leaders,43,21
+COL,Colombia,2022,Business leaders,33,32
+DEU,Germany,2022,Business leaders,22,30
+DNK,Denmark,2022,Business leaders,28,21
+ESP,Spain,2022,Business leaders,16,47
+FRA,France,2022,Business leaders,25,27
+GBR,United Kingdom,2022,Business leaders,22,35
+HUN,Hungary,2022,Business leaders,16,36
+IND,India,2022,Business leaders,41,29
+ITA,Italy,2022,Business leaders,23,30
+JAP,Japan,2022,Business leaders,13,24
+KOR,South Korea,2022,Business leaders,15,40
+MEX,Mexico,2022,Business leaders,24,34
+MYS,Malaysia,2022,Business leaders,28,25
+NDL,Netherlands,2022,Business leaders,22,20
+PER,Peru,2022,Business leaders,26,36
+POL,Poland,2022,Business leaders,16,41
+KSA,Saudi Arabia,2022,Business leaders,51,22
+SWE,Sweden,2022,Business leaders,19,29
+TUR,Turkey,2022,Business leaders,20,43
+USA,United States,2022,Business leaders,18,34
+RSA,Russia,2022,Business leaders,29,31
+ARG,Argentina,2022,Lawyers,18,45
+AUS,Australia,2022,Lawyers,28,33
+BEL,Belgium,2022,Lawyers,24,37
+BRA,Brazil,2022,Lawyers,20,39
+CAN,Canada,2022,Lawyers,26,33
+CHL,Chile,2022,Lawyers,25,42
+CHN,China,2022,Lawyers,55,15
+COL,Colombia,2022,Lawyers,20,45
+DEU,Germany,2022,Lawyers,38,21
+DNK,Denmark,2022,Lawyers,34,24
+ESP,Spain,2022,Lawyers,27,36
+FRA,France,2022,Lawyers,31,27
+GBR,United Kingdom,2022,Lawyers,33,27
+HUN,Hungary,2022,Lawyers,21,39
+IND,India,2022,Lawyers,41,32
+ITA,Italy,2022,Lawyers,21,37
+JAP,Japan,2022,Lawyers,30,20
+KOR,South Korea,2022,Lawyers,22,31
+MEX,Mexico,2022,Lawyers,21,33
+MYS,Malaysia,2022,Lawyers,32,25
+NDL,Netherlands,2022,Lawyers,39,20
+PER,Peru,2022,Lawyers,16,50
+POL,Poland,2022,Lawyers,27,34
+KSA,Saudi Arabia,2022,Lawyers,48,23
+SWE,Sweden,2022,Lawyers,38,19
+TUR,Turkey,2022,Lawyers,26,40
+USA,United States,2022,Lawyers,17,39
+RSA,Russia,2022,Lawyers,30,35
+ARG,Argentina,2022,The police,20,46
+AUS,Australia,2022,The police,50,20
+BEL,Belgium,2022,The police,40,19
+BRA,Brazil,2022,The police,29,40
+CAN,Canada,2022,The police,45,22
+CHL,Chile,2022,The police,32,41
+CHN,China,2022,The police,NA,NA
+COL,Colombia,2022,The police,24,50
+DEU,Germany,2022,The police,NA,17
+DNK,Denmark,2022,The police,NA,20
+ESP,Spain,2022,The police,50,21
+FRA,France,2022,The police,50,19
+GBR,United Kingdom,2022,The police,44,25
+HUN,Hungary,2022,The police,29,33
+IND,India,2022,The police,41,30
+ITA,Italy,2022,The police,39,22
+JAP,Japan,2022,The police,31,21
+KOR,South Korea,2022,The police,24,34
+MEX,Mexico,2022,The police,13,59
+MYS,Malaysia,2022,The police,38,25
+NDL,Netherlands,2022,The police,58,12
+PER,Peru,2022,The police,20,46
+POL,Poland,2022,The police,24,40
+KSA,Saudi Arabia,2022,The police,NA,NA
+SWE,Sweden,2022,The police,55,18
+TUR,Turkey,2022,The police,42,28
+USA,United States,2022,The police,41,27
+RSA,Russia,2022,The police,16,65
+ARG,Argentina,2022,Judges,13,63
+AUS,Australia,2022,Judges,48,19
+BEL,Belgium,2022,Judges,36,25
+BRA,Brazil,2022,Judges,28,37
+CAN,Canada,2022,Judges,46,17
+CHL,Chile,2022,Judges,17,53
+CHN,China,2022,Judges,NA,NA
+COL,Colombia,2022,Judges,21,47
+DEU,Germany,2022,Judges,47,15
+DNK,Denmark,2022,Judges,57,15
+ESP,Spain,2022,Judges,32,33
+FRA,France,2022,Judges,42,21
+GBR,United Kingdom,2022,Judges,49,17
+HUN,Hungary,2022,Judges,26,35
+IND,India,2022,Judges,54,22
+ITA,Italy,2022,Judges,27,33
+JAP,Japan,2022,Judges,36,16
+KOR,South Korea,2022,Judges,25,36
+MEX,Mexico,2022,Judges,21,46
+MYS,Malaysia,2022,Judges,40,19
+NDL,Netherlands,2022,Judges,59,14
+PER,Peru,2022,Judges,11,67
+POL,Poland,2022,Judges,24,42
+KSA,Saudi Arabia,2022,Judges,NA,NA
+SWE,Sweden,2022,Judges,49,16
+TUR,Turkey,2022,Judges,29,40
+USA,United States,2022,Judges,34,22
+RSA,Russia,2022,Judges,36,31
+ARG,Argentina,2022,Pollsters,30,28
+AUS,Australia,2022,Pollsters,13,36
+BEL,Belgium,2022,Pollsters,23,30
+BRA,Brazil,2022,Pollsters,37,28
+CAN,Canada,2022,Pollsters,22,27
+CHL,Chile,2022,Pollsters,28,28
+CHN,China,2022,Pollsters,NA,NA
+COL,Colombia,2022,Pollsters,37,29
+DEU,Germany,2022,Pollsters,33,22
+DNK,Denmark,2022,Pollsters,33,20
+ESP,Spain,2022,Pollsters,26,30
+FRA,France,2022,Pollsters,38,18
+GBR,United Kingdom,2022,Pollsters,20,25
+HUN,Hungary,2022,Pollsters,22,33
+IND,India,2022,Pollsters,35,31
+ITA,Italy,2022,Pollsters,28,28
+JAP,Japan,2022,Pollsters,12,28
+KOR,South Korea,2022,Pollsters,16,36
+MEX,Mexico,2022,Pollsters,39,20
+MYS,Malaysia,2022,Pollsters,34,21
+NDL,Netherlands,2022,Pollsters,25,24
+PER,Peru,2022,Pollsters,37,28
+POL,Poland,2022,Pollsters,20,36
+KSA,Saudi Arabia,2022,Pollsters,50,20
+SWE,Sweden,2022,Pollsters,32,23
+TUR,Turkey,2022,Pollsters,27,35
+USA,United States,2022,Pollsters,16,32
+RSA,Russia,2022,Pollsters,19,31
+ARG,Argentina,2022,Armed forces members,36,28
+AUS,Australia,2022,Armed forces members,50,15
+BEL,Belgium,2022,Armed forces members,33,20
+BRA,Brazil,2022,Armed forces members,30,34
+CAN,Canada,2022,Armed forces members,50,12
+CHL,Chile,2022,Armed forces members,31,42
+CHN,China,2022,Armed forces members,NA,NA
+COL,Colombia,2022,Armed forces members,29,45
+DEU,Germany,2022,Armed forces members,36,21
+DNK,Denmark,2022,Armed forces members,41,19
+ESP,Spain,2022,Armed forces members,47,25
+FRA,France,2022,Armed forces members,52,15
+GBR,United Kingdom,2022,Armed forces members,51,16
+HUN,Hungary,2022,Armed forces members,38,23
+IND,India,2022,Armed forces members,64,18
+ITA,Italy,2022,Armed forces members,37,23
+JAP,Japan,2022,Armed forces members,33,16
+KOR,South Korea,2022,Armed forces members,25,26
+MEX,Mexico,2022,Armed forces members,38,32
+MYS,Malaysia,2022,Armed forces members,46,15
+NDL,Netherlands,2022,Armed forces members,44,12
+PER,Peru,2022,Armed forces members,34,32
+POL,Poland,2022,Armed forces members,30,27
+KSA,Saudi Arabia,2022,Armed forces members,NA,NA
+SWE,Sweden,2022,Armed forces members,56,11
+TUR,Turkey,2022,Armed forces members,39,28
+USA,United States,2022,Armed forces members,56,12
+RSA,Russia,2022,Armed forces members,28,37
+ARG,Argentina,2022,Ordinary men/women,41,16
+AUS,Australia,2022,Ordinary men/women,40,15
+BEL,Belgium,2022,Ordinary men/women,32,17
+BRA,Brazil,2022,Ordinary men/women,36,22
+CAN,Canada,2022,Ordinary men/women,37,12
+CHL,Chile,2022,Ordinary men/women,46,16
+CHN,China,2022,Ordinary men/women,48,15
+COL,Colombia,2022,Ordinary men/women,47,16
+DEU,Germany,2022,Ordinary men/women,38,14
+DNK,Denmark,2022,Ordinary men/women,43,14
+ESP,Spain,2022,Ordinary men/women,44,13
+FRA,France,2022,Ordinary men/women,39,13
+GBR,United Kingdom,2022,Ordinary men/women,40,13
+HUN,Hungary,2022,Ordinary men/women,27,22
+IND,India,2022,Ordinary men/women,52,17
+ITA,Italy,2022,Ordinary men/women,34,19
+JAP,Japan,2022,Ordinary men/women,16,18
+KOR,South Korea,2022,Ordinary men/women,22,19
+MEX,Mexico,2022,Ordinary men/women,53,14
+MYS,Malaysia,2022,Ordinary men/women,35,14
+NDL,Netherlands,2022,Ordinary men/women,32,16
+PER,Peru,2022,Ordinary men/women,35,19
+POL,Poland,2022,Ordinary men/women,35,18
+KSA,Saudi Arabia,2022,Ordinary men/women,47,21
+SWE,Sweden,2022,Ordinary men/women,31,19
+TUR,Turkey,2022,Ordinary men/women,27,28
+USA,United States,2022,Ordinary men/women,40,12
+RSA,Russia,2022,Ordinary men/women,31,28
+ARG,Argentina,2022,Teachers,55,12
+AUS,Australia,2022,Teachers,57,14
+BEL,Belgium,2022,Teachers,47,17
+BRA,Brazil,2022,Teachers,64,15
+CAN,Canada,2022,Teachers,57,12
+CHL,Chile,2022,Teachers,63,14
+CHN,China,2022,Teachers,66,12
+COL,Colombia,2022,Teachers,59,16
+DEU,Germany,2022,Teachers,41,18
+DNK,Denmark,2022,Teachers,45,14
+ESP,Spain,2022,Teachers,62,11
+FRA,France,2022,Teachers,52,14
+GBR,United Kingdom,2022,Teachers,59,11
+HUN,Hungary,2022,Teachers,52,14
+IND,India,2022,Teachers,62,17
+ITA,Italy,2022,Teachers,43,17
+JAP,Japan,2022,Teachers,17,29
+KOR,South Korea,2022,Teachers,31,23
+MEX,Mexico,2022,Teachers,55,16
+MYS,Malaysia,2022,Teachers,57,10
+NDL,Netherlands,2022,Teachers,61,10
+PER,Peru,2022,Teachers,40,20
+POL,Poland,2022,Teachers,34,21
+KSA,Saudi Arabia,2022,Teachers,58,19
+SWE,Sweden,2022,Teachers,52,18
+TUR,Turkey,2022,Teachers,56,17
+USA,United States,2022,Teachers,58,14
+RSA,Russia,2022,Teachers,55,18
+ARG,Argentina,2022,Scientists,64,13
+AUS,Australia,2022,Scientists,59,14
+BEL,Belgium,2022,Scientists,55,17
+BRA,Brazil,2022,Scientists,61,14
+CAN,Canada,2022,Scientists,58,12
+CHL,Chile,2022,Scientists,63,15
+CHN,China,2022,Scientists,71,12
+COL,Colombia,2022,Scientists,65,16
+DEU,Germany,2022,Scientists,52,19
+DNK,Denmark,2022,Scientists,60,14
+ESP,Spain,2022,Scientists,70,12
+FRA,France,2022,Scientists,57,12
+GBR,United Kingdom,2022,Scientists,62,11
+HUN,Hungary,2022,Scientists,53,18
+IND,India,2022,Scientists,63,19
+ITA,Italy,2022,Scientists,56,18
+JAP,Japan,2022,Scientists,37,11
+KOR,South Korea,2022,Scientists,49,15
+MEX,Mexico,2022,Scientists,70,11
+MYS,Malaysia,2022,Scientists,50,13
+NDL,Netherlands,2022,Scientists,59,12
+PER,Peru,2022,Scientists,53,19
+POL,Poland,2022,Scientists,48,21
+KSA,Saudi Arabia,2022,Scientists,60,20
+SWE,Sweden,2022,Scientists,54,13
+TUR,Turkey,2022,Scientists,63,17
+USA,United States,2022,Scientists,53,16
+RSA,Russia,2022,Scientists,44,27
+ARG,Argentina,2022,Doctors,68,12
+AUS,Australia,2022,Doctors,65,13
+BEL,Belgium,2022,Doctors,61,13
+BRA,Brazil,2022,Doctors,59,15
+CAN,Canada,2022,Doctors,62,11
+CHL,Chile,2022,Doctors,60,16
+CHN,China,2022,Doctors,68,12
+COL,Colombia,2022,Doctors,61,15
+DEU,Germany,2022,Doctors,60,12
+DNK,Denmark,2022,Doctors,62,14
+ESP,Spain,2022,Doctors,71,10
+FRA,France,2022,Doctors,65,10
+GBR,United Kingdom,2022,Doctors,66,14
+HUN,Hungary,2022,Doctors,40,26
+IND,India,2022,Doctors,55,23
+ITA,Italy,2022,Doctors,54,16
+JAP,Japan,2022,Doctors,43,15
+KOR,South Korea,2022,Doctors,43,19
+MEX,Mexico,2022,Doctors,70,9
+MYS,Malaysia,2022,Doctors,57,11
+NDL,Netherlands,2022,Doctors,69,10
+PER,Peru,2022,Doctors,53,20
+POL,Poland,2022,Doctors,39,23
+KSA,Saudi Arabia,2022,Doctors,60,16
+SWE,Sweden,2022,Doctors,55,17
+TUR,Turkey,2022,Doctors,58,17
+USA,United States,2022,Doctors,60,11
+RSA,Russia,2022,Doctors,61,19

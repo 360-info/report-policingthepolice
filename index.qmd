@@ -1,33 +1,45 @@
 ---
-title: "Container test"
+title: "Trust in police"
 author: "James Goldie"
 format: html
 ---
 
-I love containers! So useful. Can we do R stuff in the rocker container? Let's see:
+```{r}
+#| label: setup
+library(tidyverse)
+library(here)
+```
 
 ```{r}
-#| label: rtest
+#| label: combine
 
-library(tibble)
+open_and_lengthen <- function(path) {
+  read_csv(path,
+    col_types = cols(
+      occupation = col_character(),
+      year = col_integer(),
+      .default = col_double())) |>
+    pivot_longer(
+      -c(occupation, year),
+      names_to = c("measure", "country_code"), names_sep = "_",
+      values_to = "pct")
+}
 
-mydata <- tibble(x = 1:10, y = x^2)
-ojs_define(mydata)
+# open each file and bind together. (lengthen each csv before we combine in
+# order to avoid blocks of nas)
+list.files(
+  here("data"),
+  pattern = glob2rx("ipsos-trust-professions-bycountry-*.csv"),
+  full.names = TRUE) |>
+  map_dfr(open_and_lengthen) ->
+trust_wide
+
+trust_wide |>
+  filter(country_code != "TOT") |>
+  pivot_wider(
+    id_cols = c("occupation", "year", "country_code"),
+    names_from = "measure",
+    values_from = "pct") |>
+  write_csv(here("data", "ipsos-trust-professions-bycountry.csv")) ->
+trust_distrust
 ```
-
-And maybe an Observable chart too?
-
-```{ojs}
-//| label: somechart
-
-Plot.plot({
-  marks: [
-    Plot.barY(transpose(mydata), {
-      x: "x",
-      y: "y"
-    })
-  ]
-})
-```
-
-Great!

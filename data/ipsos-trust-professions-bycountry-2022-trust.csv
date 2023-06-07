@@ -1,4 +1,4 @@
-occuptation,year,trust_ARG,trust_AUS,trust_BEL,trust_BRA,trust_CAN,trust_CHL,trust_CHN,trust_COL,trust_DEU,trust_DNK,trust_ESP,trust_FRA,trust_GBR,trust_HUN,trust_IND,trust_ITA,trust_JAP,trust_KOR,trust_MEX,trust_MYS,trust_NDL,trust_PER,trust_POL,trust_KSA,trust_SWE,trust_TUR,trust_USA,trust_RSA
+occupation,year,trust_ARG,trust_AUS,trust_BEL,trust_BRA,trust_CAN,trust_CHL,trust_CHN,trust_COL,trust_DEU,trust_DNK,trust_ESP,trust_FRA,trust_GBR,trust_HUN,trust_IND,trust_ITA,trust_JAP,trust_KOR,trust_MEX,trust_MYS,trust_NDL,trust_PER,trust_POL,trust_KSA,trust_SWE,trust_TUR,trust_USA,trust_RSA
 Doctors,2022,68,65,61,59,62,60,68,61,60,62,71,65,66,40,55,54,43,43,70,57,69,53,39,60,55,58,60,61
 Scientists,2022,64,59,55,61,58,63,71,65,52,60,70,57,62,53,63,56,37,49,70,50,59,53,48,60,54,63,53,44
 Teachers,2022,55,57,47,64,57,63,66,59,41,45,62,52,59,52,62,43,17,31,55,57,61,40,34,58,52,56,58,55

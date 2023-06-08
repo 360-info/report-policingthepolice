@@ -83,13 +83,34 @@ countries <- tribble(
   "SWE",          "Sweden",
   "TUR",          "Turkey",
   "USA",          "United States",
-  "RSA",          "Russia",
+  "RSA",          "South Africa",
   "RUS",          "Russia")
 
 # join country names and write out to disk
 trust_distrust |>
   left_join(countries, by = "country_code") |>
-  select(starts_with("country"), year, occupation, trust, distrust) |>
-  write_csv(here("data", "ipsos-trust-professions-bycountry.csv")) ->
-trust_dsitrust_countrynames
+  mutate(neither = 100 - trust - distrust) |>
+  select(starts_with("country"), year, occupation, trust, neither, distrust) |>
+  write_csv(
+    here("data", "ipsos-trust-professions-bycountry.csv"), na = "") ->
+trust_distrust_countrynames
+
+trust_distrust_countrynames |>
+  filter(country_name == "Saudi Arabia", occupation == "The police")
+```
+
+# Police vs. other occupations
+
+```{r}
+trust_distrust_countrynames |>
+  mutate(occ_ispolice = occupation == "The police") |>
+  group_by(country_name, year, occ_ispolice) |>
+  summarise(across(c(trust, neither, distrust), mean)) |>
+  mutate(
+    occupation = if_else(occ_ispolice, "The police", "Other occupations")) |>
+  ungroup() |>
+  select(starts_with("country"), year, occupation, trust, neither, distrust) |>
+  write_csv(
+    here("data", "ipsos-trust-police-vs-others-bycountry.csv"), na = "") ->
+trust_distrust_police
 ```

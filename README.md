@@ -60,4 +60,4 @@ quarto render
 
 ## Help
 
-If you find any problems with our analysis or charts, please feel free to [create an issue](https://github.com/360-info/[report repo name]/issues/new)!
+If you find any problems with our analysis or charts, please feel free to [create an issue](https://github.com/360-info/report-policingthepolice/issues/new)!

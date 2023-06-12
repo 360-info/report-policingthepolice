@@ -4,7 +4,7 @@ Visualises changing trust in the police and other professions globally.
 
 [Use or remix the graphic on Flourish](https://public.flourish.studio/visualisation/14059103/)
 
-[![image](https://github.com/360-info/report-policingthepolice/assets/6520659/fbc75feb-dcfe-4487-8610-1c6b16c0d699)](https://public.flourish.studio/visualisation/14059103/)
+[![image](https://github.com/360-info/report-policingthepolice/assets/6520659/e7100a23-9522-4bf3-843b-79ec68d23e72)](https://public.flourish.studio/visualisation/14059103/)
 
 ## Use + Remix rights
 
